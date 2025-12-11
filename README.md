@@ -44,7 +44,10 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 #### Discovery
 
 * [ACL Findings 2025] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://aclanthology.org/2025.findings-acl.928.pdf)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
+* [Venue Year] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://arxiv.org/pdf/2503.24228)
+* [Venue Year] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents [link](https://arxiv.org/pdf/2508.04266)
+* [Venue Year] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
 
 #### Engagement
 
@@ -53,8 +56,11 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Decision 
 
+* [Venue Year] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
+* [Venue Year] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://arxiv.org/pdf/2503.24228)
+* [Venue Year] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents [link](https://arxiv.org/pdf/2508.04266)
 * [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
 
 #### Transaction
 
@@ -80,7 +86,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Awareness
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
 * [Venue Year] Paper Title. [link](url)
 
 #### Discovery
@@ -90,7 +96,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Engagement
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
 * [Venue Year] Paper Title. [link](url)
 
 #### Decision
@@ -127,12 +133,15 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 #### Discovery
 
 * [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
+* [Venue Year] RecMind: Large Language Model Powered Agent For Recommendation. [link](https://arxiv.org/pdf/2308.14296)
+* [Venue Year] CARTS: Collaborative Agents for Recommendation Textual Summarization. [link](https://arxiv.org/pdf/2506.17765)
 
 #### Engagement
 
 * [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
+* [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
 
 #### Decision
 
@@ -141,7 +150,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Transaction
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
 * [Venue Year] Paper Title. [link](url)
 
 #### Fulfillment
