@@ -48,33 +48,38 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 * [Venue Year] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://arxiv.org/pdf/2503.24228)
 * [Venue Year] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents [link](https://arxiv.org/pdf/2508.04266)
 * [Venue Year] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
+* [Venue Year] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
+* [Venue Year] DeepShop: A Benchmark for Deep Research Shopping Agents [link](https://arxiv.org/pdf/2506.02839)
 
 #### Engagement
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
+* [Venue Year] Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment. [link](https://arxiv.org/pdf/2403.12965)
+* [Venue Year] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2403.12965)
 * [Venue Year] Paper Title. [link](url)
 
-#### Decision 
-
+#### Decision
 * [Venue Year] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
 * [Venue Year] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://arxiv.org/pdf/2503.24228)
 * [Venue Year] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents [link](https://arxiv.org/pdf/2508.04266)
-* [Venue Year] Paper Title. [link](url)
 * [Venue Year] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
+* [Venue Year] Paper Title. [link](url)
 
 #### Transaction
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
 * [Venue Year] Paper Title. [link](url)
 
 #### Fulfillment
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments. [link](https://arxiv.org/pdf/2409.17655)
+* [Venue Year] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
+* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
 
 #### Service
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
+* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
 * [Venue Year] Paper Title. [link](url)
 
 #### Loyalty
@@ -87,26 +92,32 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 #### Awareness
 
 * [Venue Year] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
+* [Venue Year] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://arxiv.org/pdf/2310.17512)
+* [Venue Year] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://arxiv.org/pdf/2502.00792)
+* [Venue Year] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
 
 #### Discovery
 
 * [Venue Year] Paper Title. [link](url)
 * [Venue Year] Paper Title. [link](url)
 
-#### Engagement
+#### Engagement & Decision
 
 * [Venue Year] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
-* [Venue Year] Paper Title. [link](url)
-
-#### Decision
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
+* [Venue Year] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
+* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
+* [Venue Year] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
+* [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
+* [Venue Year] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
+* [Venue Year] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://arxiv.org/pdf/2310.17512)
+* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
+* [Venue Year] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
 
 #### Transaction
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
 * [Venue Year] Paper Title. [link](url)
 
 #### Fulfillment
@@ -116,7 +127,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Service
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
 * [Venue Year] Paper Title. [link](url)
 
 #### Loyalty
@@ -136,16 +147,16 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 * [Venue Year] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
 * [Venue Year] RecMind: Large Language Model Powered Agent For Recommendation. [link](https://arxiv.org/pdf/2308.14296)
 * [Venue Year] CARTS: Collaborative Agents for Recommendation Textual Summarization. [link](https://arxiv.org/pdf/2506.17765)
+* [Venue Year] Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657828)
+* [Venue Year] AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems. [link](https://arxiv.org/pdf/2310.09233)
+* [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
+* [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
 
-#### Engagement
+#### Engagement & Decision
 
 * [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
 * [Venue Year] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
 * [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
-
-#### Decision
-
-* [Venue Year] Paper Title. [link](url)
 * [Venue Year] Paper Title. [link](url)
 
 #### Transaction
@@ -195,14 +206,15 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 * [Venue Year] Paper Title. [link](url)
 * [Venue Year] Paper Title. [link](url)
 
-#### Fulfillment
+#### Fulfillment & Service
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Service
-
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] L3MVN: Leveraging Large Language Models for Visual Target Navigation. [link](https://arxiv.org/pdf/2304.05501)
+* [Venue Year] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs. [link](https://arxiv.org/pdf/2407.07775)
+* [Venue Year] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
+* [Venue Year] Research on Composite Robot Scheduling and Task Allocation for Warehouse Logistics Systems. [link](https://www.mdpi.com/2071-1050/17/11/5051)
+* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
+* [Venue Year] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
+* [Venue Year] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
 * [Venue Year] Paper Title. [link](url)
 
 #### Loyalty
@@ -212,73 +224,12 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### 1.5 Payment Agents (Pay-Agent)
 
-#### Awareness
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Discovery
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Engagement
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Decision
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Transaction
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Fulfillment
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Service
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Loyalty
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
 
 ## 2. Application & Ecosystem Patterns
 
 *Papers that focus on cross-participant interactions, specific business models/scenarios, or overall solutions rather than a single Agent type or Pipeline stage.*
 
-### 2.1 Business Models
-
-#### B2C Retail & Direct-to-Consumer
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Platform & Marketplace (B2B2C, C2C)
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### B2B & Supply Chain
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Services (Hospitality, F&B, Mobility, etc.)
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-### 2.2 Channel Patterns
+### 2.1 Channel Patterns
 
 #### Online-only Scenarios
 
@@ -295,17 +246,16 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 * [Venue Year] Paper Title. [link](url)
 * [Venue Year] Paper Title. [link](url)
 
-### 2.3 Interaction Modes & Protocols
+### 2.2 Interaction Modes & Protocols
 
 #### Agent-to-Site (A2S)
 
 * [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
 
 #### Agent-to-Agent (A2A)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
+* [Venue Year] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
 
 #### Brokered Interaction
 
@@ -314,39 +264,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Protocols (ACP, AP2, MCP, A2A Standards)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-### 2.4 Vertical Domains
-
-#### Retail
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Logistics & Supply Chain
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Finance & Payment
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Mobility & Transportation
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Hospitality & Tourism
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Other Domains
-
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [Venue Year] Paper Title. [link](url)
 
 ## 3. Foundations
@@ -360,43 +278,13 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 * [Venue Year] Paper Title. [link](url)
 * [Venue Year] Paper Title. [link](url)
 
-### 3.2 Multi-Agent Systems & Coordination
-
-*Multi-agent planning, negotiation, coordination methods applied to commerce settings (pricing, matching, auctions, supply chain, etc.).*
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-### 3.3 Benchmarks & Simulators
+### 3.2 Benchmarks & Simulators
 
 *Environments, simulation platforms, evaluation benchmarks, user/agent simulators.*
 
+* [Venue Year] SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation. [link](https://aclanthology.org/2025.acl-industry.5.pdf)
 * [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
 
-### 3.4 Surveys & Taxonomies
-
-*Survey papers, taxonomies, position papers on agentic commerce and related topics.*
-
-#### Agentic Commerce / AI Agents in Commerce
-
-* [Venue Year] Survey Title. [link](url)
-* [Venue Year] Survey Title. [link](url)
-
-#### Other Related Topics
-
-* [Venue Year] Related Survey Title. [link](url)
-* [Venue Year] Related Survey Title. [link](url)
-
-## Toolkits
-
-* Toolkit Name: [link](url)
-* Toolkit Name: [link](url)
-
-## Datasets
-
-* Dataset Name: [description] [link](url)
-* Dataset Name: [description] [link](url)
 
 ## About
 
