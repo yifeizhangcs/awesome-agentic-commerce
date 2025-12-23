@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a curated list of papers about agentic commerce including AI agents for e-commerce, multi-agent commerce systems, conversational commerce, autonomous trading agents, recommendation agents, pricing agents, supply chain agents, etc.
+This is a curated list of resources on **Agentic Commerce (A-Commerce)**, covering agentic e-commerce, multi-agent market/commerce systems, conversational commerce, autonomous negotiation & trading, recommendation/search agents, pricing agents, supply chain/logistics agents, and payment agents.
 
 If you want to add new entries, please make PRs with the same format.
 
@@ -33,15 +33,66 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ---
 
-## 1. Agents × Commerce Pipeline
+## Part I. Literature Scope & Core Definitions (Survey Ch1–Ch2)
 
-### 1.1 Consumer Agents (C-Agent)
+### Surveying methodology (meeting notes)
 
-#### Awareness
+- Use the lab internal AI Pilot to discover relevant papers and systems.
+- Focus on extracting **system-level structure and dimensions** (pipeline, roles, interactions, evaluation), not per-paper novelty.
+
+### What we mean by Agentic Commerce
+
+**Agentic Commerce (A-Commerce)** studies commerce systems where **autonomous (or semi-autonomous) agents** represent participants (consumers, merchants, platforms, logistics, payments) and execute **multi-step commerce workflows** via tools, memory, planning, and interaction protocols.
+
+### A minimal mathematical formalization (for the survey)
+
+Let agent roles be $\mathcal{A}=\{C, M, P, L, Pay\}$ and pipeline stages be
+$\mathcal{S}=\{Awareness, Discovery, Engagement, Decision, Transaction, Fulfillment, Service, Loyalty\}$.
+
+We can represent an A-Commerce system as a role–stage interaction graph:
+
+- Nodes: $V = \mathcal{A} \times \mathcal{S}$, i.e., 5 agent roles × pipeline stages.
+- Directed edges: $E \subseteq V \times V$, capturing (i) within-role stage transitions (workflow) and (ii) cross-role interactions (e.g., consumer–merchant negotiation at Transaction).
+- Tool/interface set: $\mathcal{T}$ (e.g., web actions, search, payment rails, APIs).
+- Policies/constraints: $\Pi$ (safety, compliance, budget, latency, trust/verification).
+
+This matches the survey’s “**5 types of agents × pipeline steps**” abstraction while leaving room for interaction protocols and evaluation.
+
+### LLM vs Agent: narrative positioning
+
+- **LLM + Commerce** (single-LLM assistants, RAG search/reco, dialog systems) are best viewed as **early components** on the path to A-Commerce.
+- **Agentic Commerce** is **epoch-making**: it shifts from “one model answers” to **systems of agents** that plan, act, transact, coordinate, and are evaluated end-to-end.
+
+### General background
 
 * [arXiv 2024] Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security. [link](https://arxiv.org/pdf/2401.05459)
 
-#### Discovery
+---
+
+## Chapter 3. Unified Pipeline (System & Process)
+
+*Organization rule: **Stage (1st-level)** → **Agent role (2nd-level)**.*
+
+### Awareness
+
+#### Consumer (C-Agent)
+
+#### Merchant (M-Agent)
+
+* [Venue Year] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
+* [Venue Year] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
+* [Venue Year] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://arxiv.org/pdf/2502.00792)
+* [Venue Year] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
+
+#### Platform (P-Agent)
+
+#### Logistics (L-Agent)
+
+#### Payment (Pay-Agent)
+
+### Discovery
+
+#### Consumer (C-Agent)
 
 * [ACL Findings 2025] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://aclanthology.org/2025.findings-acl.928.pdf)
 * [Venue Year] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
@@ -51,97 +102,9 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 * [Venue Year] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
 * [Venue Year] DeepShop: A Benchmark for Deep Research Shopping Agents [link](https://arxiv.org/pdf/2506.02839)
 
-#### Engagement
+#### Merchant (M-Agent)
 
-* [Venue Year] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
-* [Venue Year] Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment. [link](https://arxiv.org/pdf/2403.12965)
-* [Venue Year] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2403.12965)
-* [Venue Year] Paper Title. [link](url)
-
-#### Decision
-* [Venue Year] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
-* [Venue Year] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://arxiv.org/pdf/2503.24228)
-* [Venue Year] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents [link](https://arxiv.org/pdf/2508.04266)
-* [Venue Year] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
-* [Venue Year] Paper Title. [link](url)
-
-#### Transaction
-
-* [Venue Year] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
-* [Venue Year] Paper Title. [link](url)
-
-#### Fulfillment
-
-* [Venue Year] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments. [link](https://arxiv.org/pdf/2409.17655)
-* [Venue Year] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
-* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
-
-#### Service
-
-* [Venue Year] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
-* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
-* [Venue Year] Paper Title. [link](url)
-
-#### Loyalty
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-### 1.2 Merchant Agents (M-Agent)
-
-#### Awareness
-
-* [Venue Year] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
-* [Venue Year] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
-* [Venue Year] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://arxiv.org/pdf/2310.17512)
-* [Venue Year] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://arxiv.org/pdf/2502.00792)
-* [Venue Year] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
-
-#### Discovery
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Engagement & Decision
-
-* [Venue Year] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
-* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
-* [Venue Year] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
-* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
-* [Venue Year] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
-* [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
-* [Venue Year] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
-* [Venue Year] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://arxiv.org/pdf/2310.17512)
-* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
-* [Venue Year] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
-
-#### Transaction
-
-* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
-* [Venue Year] Paper Title. [link](url)
-
-#### Fulfillment
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Service
-
-* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
-* [Venue Year] Paper Title. [link](url)
-
-#### Loyalty
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-### 1.3 Platform Agents (P-Agent)
-
-#### Awareness
-
-* [Venue Year] Paper Title. [link](url)
-
-#### Discovery
+#### Platform (P-Agent)
 
 * [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
 * [Venue Year] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
@@ -152,143 +115,198 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 * [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
 * [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
 
-#### Engagement & Decision
+#### Logistics (L-Agent)
+
+#### Payment (Pay-Agent)
+
+### Engagement
+
+#### Consumer (C-Agent)
+
+* [Venue Year] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
+* [Venue Year] Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment. [link](https://arxiv.org/pdf/2403.12965)
+* [Venue Year] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2403.12965)
+
+#### Merchant (M-Agent)
+
+* [Venue Year] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
+* [Venue Year] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
+* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
+* [Venue Year] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
+* [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
+
+#### Platform (P-Agent)
 
 * [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
+
+#### Logistics (L-Agent)
+
+#### Payment (Pay-Agent)
+
+### Decision
+
+#### Consumer (C-Agent)
+
+* [Venue Year] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants? [link](https://arxiv.org/pdf/2509.21501)
+
+#### Merchant (M-Agent)
+
+* [Venue Year] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
+* [Venue Year] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://arxiv.org/pdf/2310.17512)
+
+#### Platform (P-Agent)
+
 * [Venue Year] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
 * [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
-* [Venue Year] Paper Title. [link](url)
 
-#### Transaction
+#### Logistics (L-Agent)
 
-* [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
-* [Venue Year] Paper Title. [link](url)
+#### Payment (Pay-Agent)
 
-#### Fulfillment
+### Transaction
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+#### Consumer (C-Agent)
 
-#### Service
+#### Merchant (M-Agent)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
+* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
 
-#### Loyalty
+#### Platform (P-Agent)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+#### Logistics (L-Agent)
 
-### 1.4 Logistics Agents (L-Agent)
+#### Payment (Pay-Agent)
 
-#### Awareness
+* [Venue Year] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
+* [Venue Year] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+### Fulfillment
 
-#### Discovery
+#### Consumer (C-Agent)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments. [link](https://arxiv.org/pdf/2409.17655)
 
-#### Engagement
+#### Merchant (M-Agent)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+#### Platform (P-Agent)
 
-#### Decision
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Transaction
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-#### Fulfillment & Service
+#### Logistics (L-Agent)
 
 * [Venue Year] L3MVN: Leveraging Large Language Models for Visual Target Navigation. [link](https://arxiv.org/pdf/2304.05501)
 * [Venue Year] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs. [link](https://arxiv.org/pdf/2407.07775)
 * [Venue Year] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
 * [Venue Year] Research on Composite Robot Scheduling and Task Allocation for Warehouse Logistics Systems. [link](https://www.mdpi.com/2071-1050/17/11/5051)
-* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
 * [Venue Year] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
+* [Venue Year] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
+
+#### Payment (Pay-Agent)
+
+### Service
+
+#### Consumer (C-Agent)
+
+* [Venue Year] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
+* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
+
+#### Merchant (M-Agent)
+
+* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
+
+#### Platform (P-Agent)
+
+#### Logistics (L-Agent)
+
 * [Venue Year] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
-* [Venue Year] Paper Title. [link](url)
 
-#### Loyalty
+#### Payment (Pay-Agent)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+### Loyalty
 
-### 1.5 Payment Agents (Pay-Agent)
+#### Consumer (C-Agent)
 
+#### Merchant (M-Agent)
 
-## 2. Application & Ecosystem Patterns
+#### Platform (P-Agent)
 
-*Papers that focus on cross-participant interactions, specific business models/scenarios, or overall solutions rather than a single Agent type or Pipeline stage.*
+#### Logistics (L-Agent)
 
-### 2.1 Channel Patterns
+#### Payment (Pay-Agent)
 
-#### Online-only Scenarios
+---
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+## Chapter 4. Applications & Benchmarks (Unique Aspects)
 
-#### Offline / Embodied Scenarios (IoT, Robots)
+*Organization rule: **Vertical domains**, focusing on **what** the systems do (not implementation details).* 
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+### Retail Shopping & Personal Assistants
 
-#### Omnichannel & O2O Patterns
+* [Venue Year] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
+* [Venue Year] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://arxiv.org/pdf/2503.24228)
+* [Venue Year] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
+* [Venue Year] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents [link](https://arxiv.org/pdf/2508.04266)
+* [Venue Year] DeepShop: A Benchmark for Deep Research Shopping Agents [link](https://arxiv.org/pdf/2506.02839)
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+### Marketplaces (C2C / P2P)
 
-### 2.2 Interaction Modes & Protocols
+* [Venue Year] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
+* [Venue Year] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
 
-#### Agent-to-Site (A2S)
+### Advertising, Bidding & Merchant Growth
 
-* [Venue Year] Paper Title. [link](url)
+* [Venue Year] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://arxiv.org/pdf/2502.00792)
+* [Venue Year] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
 
-#### Agent-to-Agent (A2A)
+### Sales & Customer Service
 
-* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
-* [Venue Year] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
+* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
+* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
+* [Venue Year] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
+* [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
 
-#### Brokered Interaction
+### Education & Learning Commerce
 
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
+### Mobility & On-demand Services
 
-#### Protocols (ACP, AP2, MCP, A2A Standards)
+* [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
 
+### Supply Chain, Warehousing & Embodied Commerce
+
+* [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
+* [Venue Year] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
+* [Venue Year] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
+* [Venue Year] Research on Composite Robot Scheduling and Task Allocation for Warehouse Logistics Systems. [link](https://www.mdpi.com/2071-1050/17/11/5051)
+* [Venue Year] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
+* [Venue Year] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
+* [Venue Year] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
+
+### Payments, Trust & Transaction Protocols
+
+* [Venue Year] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [Venue Year] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
-* [Venue Year] Paper Title. [link](url)
 
-## 3. Foundations
+### Benchmarks, Simulators & Open Environments
 
-*Papers that focus on methodologies, frameworks, benchmarks, or surveys rather than specific commerce applications.*
-
-### 3.1 Formal Models & Frameworks
-
-*Formal modeling, mechanism design, unified frameworks for agentic commerce.*
-
-* [Venue Year] Paper Title. [link](url)
-* [Venue Year] Paper Title. [link](url)
-
-### 3.2 Benchmarks & Simulators
-
-*Environments, simulation platforms, evaluation benchmarks, user/agent simulators.*
-
+* [Venue Year] Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets. [link](https://arxiv.org/pdf/2510.25779)
 * [Venue Year] SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation. [link](https://aclanthology.org/2025.acl-industry.5.pdf)
-* [Venue Year] Paper Title. [link](url)
+
+
+---
+
+## Chapter 5. Future Directions (Unique Challenges)
+
+*This section is intentionally survey-oriented; add works/products that directly speak to these challenges.*
+
+- Enterprise adoption: integration with legacy stacks, governance, ROI, and org/process change.
+- Agent capability: long-horizon planning, tool reliability, robustness to distribution shift.
+- Interaction & collaboration: multi-agent coordination, negotiation protocols, incentive alignment.
+- Trust & safety: verification, fraud/scams, privacy, compliance, human-in-the-loop controls.
+- Evaluation: standardized benchmarks, offline/online metrics, and end-to-end system testing.
 
 
 ## About
 
-This repository contains a curated list of papers about agentic commerce, including AI agents for e-commerce, multi-agent commerce systems, conversational commerce, autonomous trading agents, and related topics.
+This repository contains a curated list of resources on agentic commerce, including AI agents for e-commerce, multi-agent commerce systems, conversational commerce, autonomous negotiations/transactions, and related topics.
 
 ### Topics
 
@@ -312,13 +330,13 @@ Contributions are welcome! Please feel free to submit a Pull Request. Make sure 
 
 **Classification Guidelines:**
 
-When adding a paper, classify it based on its primary focus:
+When adding a paper/resource, classify it based on its primary focus:
 
-1. **Agent × Pipeline (Section 1)**: If the paper focuses on **one primary Agent type** (C/M/P/L/Pay) working in **one primary Pipeline stage** (Awareness/Discovery/Engagement/Decision/Transaction/Fulfillment/Service/Loyalty), add it to the corresponding subsection in Section 1.
+1. **Unified Pipeline (Chapter 3)**: If it fits a specific **pipeline stage** (Awareness/Discovery/Engagement/Decision/Transaction/Fulfillment/Service/Loyalty), add it under that stage, then the most relevant **agent role** (C/M/P/L/Pay).
 
-2. **Application & Ecosystem (Section 2)**: If the paper focuses on **cross-participant interactions**, **specific business models/scenarios**, or **overall solutions** rather than a single Agent type or Pipeline stage, add it to Section 2 under the appropriate category (Business Models, Channel Patterns, Interaction Modes & Protocols, or Vertical Domains).
+2. **Applications & Benchmarks (Chapter 4)**: If it is best described by a **vertical domain** (Retail, Marketplaces, Ads, Sales/Service, Logistics/Embodied, Payments, etc.) or is an **evaluation environment/benchmark**, add it under Chapter 4.
 
-3. **Foundations (Section 3)**: If the paper is primarily about **methodologies**, **frameworks**, **benchmarks**, or **surveys** rather than specific commerce applications, add it to Section 3 under the appropriate category (Formal Models & Frameworks, Multi-Agent Systems & Coordination, Benchmarks & Simulators, or Surveys & Taxonomies).
+3. **Core definitions (Part I)**: If it is a **survey/taxonomy/formalization** that supports our definitions and framing, add it under Part I.
 
 **General Guidelines:**
 - All entries should be sorted chronologically (newest first) within each category
