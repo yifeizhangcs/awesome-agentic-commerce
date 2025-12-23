@@ -217,7 +217,7 @@ If you find this repo useful, please consider citing our survey.
 
 ---
 
-## Chapter 4. Applications & Benchmarks (Unique Aspects)
+## Applications & Benchmarks (Unique Aspects)
 
 *Organization rule: **Vertical domains**, focusing on **what** the systems do (not implementation details).* 
 
