@@ -114,6 +114,10 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * [Venue Year] AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems. [link](https://arxiv.org/pdf/2310.09233)
 * [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
 * [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
+* [Venue Year] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
+* [Venue Year] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
+* [Venue Year] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
+* [Venue Year] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
 
 #### Logistics (L-Agent)
 
@@ -138,6 +142,10 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 #### Platform (P-Agent)
 
 * [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
+* [Venue Year] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
+* [Venue Year] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
+* [Venue Year] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
+* [Venue Year] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
 
 #### Logistics (L-Agent)
 
@@ -180,6 +188,7 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 
 * [Venue Year] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [Venue Year] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
+* [Venue Year] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 
 ### Fulfillment
 
@@ -285,12 +294,12 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * [Venue Year] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [Venue Year] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 
-### Benchmarks, Simulators & Open Environments
+### Benchmarks and Evaluation for Agentic Commerce
 
 * [Venue Year] Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets. [link](https://arxiv.org/pdf/2510.25779)
 * [Venue Year] SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation. [link](https://aclanthology.org/2025.acl-industry.5.pdf)
-
-
+* [Venue Year] EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce. [link](https://arxiv.org/pdf/2512.08868)
+* 
 ---
 
 ## Chapter 5. Future Directions (Unique Challenges)
