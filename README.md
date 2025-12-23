@@ -16,10 +16,9 @@ If you find this repo useful, please consider citing our survey.
   title={Agentic Commerce: How AI Agents Are Reshaping Commerce — A Survey},
   author={Author, Name and Others},
   journal={Conference/Journal Name},
-  year={2024}
+  year={2025}
 }
 ```
-**(APP)**: Application Paper of Agentic Commerce
 
 ## Industry Reports & Whitepapers
 
@@ -30,7 +29,7 @@ If you find this repo useful, please consider citing our survey.
 
 ---
 
-## Unified Pipeline (System & Process)
+## Commerce Pipeline
 
 *Organization rule: **Stage (1st-level)** → **Agent role (2nd-level)**.*
 
@@ -217,9 +216,7 @@ If you find this repo useful, please consider citing our survey.
 
 ---
 
-## Applications & Benchmarks (Unique Aspects)
-
-*Organization rule: **Vertical domains**, focusing on **what** the systems do (not implementation details).* 
+## Applications & Benchmarks
 
 ### Retail Shopping & Personal Assistants
 
@@ -272,7 +269,7 @@ If you find this repo useful, please consider citing our survey.
 * [Venue Year] Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets. [link](https://arxiv.org/pdf/2510.25779)
 * [Venue Year] SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation. [link](https://aclanthology.org/2025.acl-industry.5.pdf)
 * [Venue Year] EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce. [link](https://arxiv.org/pdf/2512.08868)
-* 
+
 ---
 
 ## Future Directions
