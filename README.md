@@ -18,7 +18,7 @@ If you find this repo useful, please consider citing our survey.
   journal={Conference/Journal Name},
   year={2024}
 }
-
+```
 **(APP)**: Application Paper of Agentic Commerce
 
 ## Industry Reports & Whitepapers
@@ -275,7 +275,7 @@ If you find this repo useful, please consider citing our survey.
 * 
 ---
 
-## Future Directions (Unique Challenges)
+## Future Directions
 
 - Enterprise adoption: integration with legacy stacks, governance, ROI, and org/process change.
 - Agent capability: long-horizon planning, tool reliability, robustness to distribution shift.
