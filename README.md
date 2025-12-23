@@ -3,15 +3,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a curated list of resources on **Agentic Commerce (A-Commerce)**, covering agentic e-commerce, multi-agent market/commerce systems, conversational commerce, autonomous negotiation & trading, recommendation/search agents, pricing agents, supply chain/logistics agents, and payment agents.
+A curated list of resources on **Agentic Commerce (A-Commerce)**, covering agentic e-commerce, multi-agent market and commerce systems, conversational commerce, autonomous negotiation and trading, recommendation/search agents, pricing agents, supply chain and logistics agents, and payment agents.
 
-If you want to add new entries, please make PRs with the same format.
+This repository complements the upcoming survey:
 
-This list serves as a complement to the survey below.
+> **Agentic Commerce: How AI Agents Are Reshaping Commerce — A Survey** (Coming Soon)
 
-**[Agentic Commerce: How AI Agents Are Reshaping Commerce — A Survey]** (Coming Soon)
-
-If you find this repo helpful, we would appreciate it if you could cite our survey.
+If you find this repo useful, please consider citing our survey.
 
 ```bibtex
 @article{author2024comprehensive,
@@ -20,7 +18,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
   journal={Conference/Journal Name},
   year={2024}
 }
-```
 
 **(APP)**: Application Paper of Agentic Commerce
 
@@ -33,43 +30,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ---
 
-## Part I. Literature Scope & Core Definitions (Survey Ch1–Ch2)
-
-### Surveying methodology (meeting notes)
-
-- Use the lab internal AI Pilot to discover relevant papers and systems.
-- Focus on extracting **system-level structure and dimensions** (pipeline, roles, interactions, evaluation), not per-paper novelty.
-
-### What we mean by Agentic Commerce
-
-**Agentic Commerce (A-Commerce)** studies commerce systems where **autonomous (or semi-autonomous) agents** represent participants (consumers, merchants, platforms, logistics, payments) and execute **multi-step commerce workflows** via tools, memory, planning, and interaction protocols.
-
-### A minimal mathematical formalization (for the survey)
-
-Let agent roles be $\mathcal{A}=\{C, M, P, L, Pay\}$ and pipeline stages be
-$\mathcal{S}=\{Awareness, Discovery, Engagement, Decision, Transaction, Fulfillment, Service, Loyalty\}$.
-
-We can represent an A-Commerce system as a role–stage interaction graph:
-
-- Nodes: $V = \mathcal{A} \times \mathcal{S}$, i.e., 5 agent roles × pipeline stages.
-- Directed edges: $E \subseteq V \times V$, capturing (i) within-role stage transitions (workflow) and (ii) cross-role interactions (e.g., consumer–merchant negotiation at Transaction).
-- Tool/interface set: $\mathcal{T}$ (e.g., web actions, search, payment rails, APIs).
-- Policies/constraints: $\Pi$ (safety, compliance, budget, latency, trust/verification).
-
-This matches the survey’s “**5 types of agents × pipeline steps**” abstraction while leaving room for interaction protocols and evaluation.
-
-### LLM vs Agent: narrative positioning
-
-- **LLM + Commerce** (single-LLM assistants, RAG search/reco, dialog systems) are best viewed as **early components** on the path to A-Commerce.
-- **Agentic Commerce** is **epoch-making**: it shifts from “one model answers” to **systems of agents** that plan, act, transact, coordinate, and are evaluated end-to-end.
-
-### General background
-
-* [arXiv 2024] Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security. [link](https://arxiv.org/pdf/2401.05459)
-
----
-
-## Chapter 3. Unified Pipeline (System & Process)
+## Unified Pipeline (System & Process)
 
 *Organization rule: **Stage (1st-level)** → **Agent role (2nd-level)**.*
 
@@ -314,9 +275,7 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * 
 ---
 
-## Chapter 5. Future Directions (Unique Challenges)
-
-*This section is intentionally survey-oriented; add works/products that directly speak to these challenges.*
+## Future Directions (Unique Challenges)
 
 - Enterprise adoption: integration with legacy stacks, governance, ROI, and org/process change.
 - Agent capability: long-horizon planning, tool reliability, robustness to distribution shift.
@@ -337,32 +296,7 @@ This repository contains a curated list of resources on agentic commerce, includ
 
 Contributions are welcome! Please feel free to submit a Pull Request. Make sure to follow the existing format:
 
-**For Academic Papers:**
 - `[Venue Year] Paper Title. [link](url)`
-- Examples: `[ICLR 2024] Agentic Shopping Assistant. [link](https://example.com/paper)` or `[arXiv 2024] Multi-Agent Commerce Platform. [link](https://arxiv.org/abs/2024.12345)`
-
-**For Industry Reports:**
-- `[Company Year] Report Title. [link](url)`
-- Examples: `[McKinsey 2024] The Future of Agentic Commerce. [link](https://example.com/report)` or `[Gartner 2024] AI Agents in E-commerce. [link](https://example.com/report)`
-
-**For News Articles & Blog Posts:**
-- `[Source Date] Article Title. [link](url)`
-- Examples: `[TechCrunch 2024-01-15] How AI Agents Are Transforming Shopping. [link](https://example.com/article)` or `[Company Blog 2024-02-20] Building Agentic Commerce Platforms. [link](https://example.com/blog)`
-
-**Classification Guidelines:**
-
-When adding a paper/resource, classify it based on its primary focus:
-
-1. **Unified Pipeline (Chapter 3)**: If it fits a specific **pipeline stage** (Awareness/Discovery/Engagement/Decision/Transaction/Fulfillment/Service/Loyalty), add it under that stage, then the most relevant **agent role** (C/M/P/L/Pay).
-
-2. **Applications & Benchmarks (Chapter 4)**: If it is best described by a **vertical domain** (Retail, Marketplaces, Ads, Sales/Service, Logistics/Embodied, Payments, etc.) or is an **evaluation environment/benchmark**, add it under Chapter 4.
-
-3. **Core definitions (Part I)**: If it is a **survey/taxonomy/formalization** that supports our definitions and framing, add it under Part I.
-
-**General Guidelines:**
-- All entries should be sorted chronologically (newest first) within each category
-- Add links when available (can be arXiv, official PDF, code repository, project page, news article, etc.)
-- For non-academic resources (industry reports, news articles), please add them to the "Industry Reports & Whitepapers" section at the top
 
 ### License
 
