@@ -100,7 +100,9 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * [Venue Year] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents [link](https://arxiv.org/pdf/2508.04266)
 * [Venue Year] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
 * [Venue Year] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
-* [Venue Year] DeepShop: A Benchmark for Deep Research Shopping Agents [link](https://arxiv.org/pdf/2506.02839)
+* [Venue Year] DeepShop: A Benchmark for Deep Research Shopping Agents. [link](https://arxiv.org/pdf/2506.02839)
+* [Venue Year] Flippi: End To End GenAI Assistant for E-Commerce. [link](https://arxiv.org/pdf/2507.05788)
+* [Venue Year] Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence. [link](https://arxiv.org/pdf/2506.15677)
 
 #### Merchant (M-Agent)
 
@@ -118,6 +120,8 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * [Venue Year] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
 * [Venue Year] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
 * [Venue Year] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
+* [Venue Year] Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics. [link](https://arxiv.org/pdf/2510.17797)
+* [Venue Year] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
 
 #### Logistics (L-Agent)
 
@@ -138,6 +142,7 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
 * [Venue Year] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
 * [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
+* [Venue Year] Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets. [link](https://arxiv.org/pdf/2504.00338)
 
 #### Platform (P-Agent)
 
@@ -156,7 +161,10 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 #### Consumer (C-Agent)
 
 * [Venue Year] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants? [link](https://arxiv.org/pdf/2509.21501)
-
+* [Venue Year] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://arxiv.org/pdf/2402.05863)
+* [Venue Year] TravelAgent: An AI Assistant for Personalized Travel Planning. [link](https://arxiv.org/pdf/2409.08069)
+* [Venue Year] Build Agent Advocates, Not Platform Agents. [link](https://arxiv.org/pdf/2505.04345)
+  
 #### Merchant (M-Agent)
 
 * [Venue Year] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
@@ -189,6 +197,8 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * [Venue Year] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [Venue Year] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [Venue Year] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
+* [Venue Year] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
+* [Venue Year] Agent TCP/IP: An Agent-to-Agent Transaction System. [link](https://arxiv.org/pdf/2501.06243)
 
 ### Fulfillment
 
@@ -208,7 +218,9 @@ This matches the survey’s “**5 types of agents × pipeline steps**” abstra
 * [Venue Year] Research on Composite Robot Scheduling and Task Allocation for Warehouse Logistics Systems. [link](https://www.mdpi.com/2071-1050/17/11/5051)
 * [Venue Year] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
 * [Venue Year] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
-
+* [Venue Year] Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. [link](https://arxiv.org/pdf/2509.03811)
+* [Venue Year] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints. [link](https://arxiv.org/pdf/2503.16408)
+  
 #### Payment (Pay-Agent)
 
 ### Service
