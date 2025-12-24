@@ -24,7 +24,7 @@ This repository complements the upcoming survey:
 * [McKinsey & Company 2025] The Agentic Commerce Opportunity: How AI Agents Are Ushering in a New Era for Consumers and Merchants. [link](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants)
 * [Visa 2025] What Is Agentic Commerce? [link](https://corporate.visa.com/en/sites/visa-perspectives/innovation/what-is-agentic-commerce.html)
 * [Google Cloud 2025] Agentic commerce is here: How retailers can prepare for the new shopping era [link](https://cloud.google.com/transform/agentic-commerce-retailers-can-prepare-for-the-new-shopping-era-ai)
-
+* [Shopify 2025] AI Agents: Harnessing Agentic AI for Ecommerce Businesses [link](https://www.shopify.com/blog/ai-agents)
 ---
 
 ## Part I: Commerce Pipeline
@@ -158,6 +158,8 @@ This repository complements the upcoming survey:
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [Venue Year] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 * [Venue Year] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
+* [Venue Year] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://arxiv.org/pdf/2508.19932)
+* [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 
 ### Fulfillment
 
@@ -281,6 +283,7 @@ This repository complements the upcoming survey:
 
 ### Platform Services & Enterprise Solutions
 
+* [OpenAI] Operator. [link](https://openai.com/index/introducing-operator/)
 * [Adobe] Adobe Experience Platform Agent Orchestrator. [link](https://business.adobe.com)
 * [Salesforce] Artificial Intelligence (AI) at Salesforce. [link](https://salesforce.com)
 
@@ -316,14 +319,17 @@ This repository complements the upcoming survey:
 * [Model Context Protocol] Model Context Protocol (MCP). [link](https://modelcontextprotocol.io)
 * [Agent2Agent Protocol] Agent2Agent (A2A) Protocol. [link](https://a2a-protocol.org)
 * [OpenAI] Agentic Commerce Protocol (ACP). [link](https://github.com/openai/agentic-commerce-protocol)
+* [W3C 2025] Verifiable Credentials 2.0 family of specifications. [link](https://www.w3.org/news/2025/the-verifiable-credentials-2-0-family-of-specifications-is-now-a-w3c-recommendation/)
 * [Venue Year] Agent TCP/IP: An Agent-to-Agent Transaction System. [link](https://arxiv.org/pdf/2501.06243)
 
 ### Payment & Transaction Protocols
 
 * [Venue Year] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
+* [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 * [Venue Year] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 * [Venue Year] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
+* [Venue Year] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://arxiv.org/pdf/2508.19932)
 
 ---
 
