@@ -119,6 +119,9 @@ This repository complements the upcoming survey:
 * [Venue Year] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants? [link](https://arxiv.org/pdf/2509.21501)
 * [Venue Year] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://arxiv.org/pdf/2402.05863)
 * [Venue Year] TravelAgent: An AI Assistant for Personalized Travel Planning. [link](https://arxiv.org/pdf/2409.08069)
+* [Venue Year] DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents. [link](https://arxiv.org/pdf/2509.21842)
+* [EMNLP 2025] RETAIL: Towards Real-world Travel Planning for Large Language Models. [link](https://aclanthology.org/2025.emnlp-main.752.pdf)
+* [ACL 2025] Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning. [link](https://aclanthology.org/2025.acl-long.1339.pdf)
 * [Venue Year] Build Agent Advocates, Not Platform Agents. [link](https://arxiv.org/pdf/2505.04345)
 
 #### Merchant (M-Agent)
@@ -130,6 +133,7 @@ This repository complements the upcoming survey:
 
 * [Venue Year] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
 * [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
+* [Venue Year] RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations. [link](https://arxiv.org/pdf/2505.06608)
 
 #### Logistics (L-Agent)
 
@@ -229,6 +233,9 @@ This repository complements the upcoming survey:
 * [Venue Year] Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment. [link](https://arxiv.org/pdf/2403.12965)
 * [Venue Year] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2403.12965)
 * [Venue Year] TravelAgent: An AI Assistant for Personalized Travel Planning. [link](https://arxiv.org/pdf/2409.08069)
+* [Venue Year] DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents. [link](https://arxiv.org/pdf/2509.21842)
+* [EMNLP 2025] RETAIL: Towards Real-world Travel Planning for Large Language Models. [link](https://aclanthology.org/2025.emnlp-main.752.pdf)
+* [ACL 2025] Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning. [link](https://aclanthology.org/2025.acl-long.1339.pdf)
 * [Venue Year] Build Agent Advocates, Not Platform Agents. [link](https://arxiv.org/pdf/2505.04345)
 
 ### Marketplaces (C2C / P2P)
@@ -280,6 +287,7 @@ This repository complements the upcoming survey:
 ### Mobility & On-demand Services
 
 * [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
+* [Venue Year] RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations. [link](https://arxiv.org/pdf/2505.06608)
 
 ### Supply Chain, Warehousing & Embodied Commerce
 
