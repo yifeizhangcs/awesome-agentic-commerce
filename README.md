@@ -197,6 +197,8 @@ This repository complements the upcoming survey:
 
 #### Platform (P-Agent)
 
+* [Venue Year] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
+
 #### Logistics (L-Agent)
 
 * [Venue Year] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
@@ -279,11 +281,13 @@ This repository complements the upcoming survey:
 * [Venue Year] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
 * [Venue Year] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
 * [Venue Year] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
+* [Venue Year] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
 * [Venue Year] Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics. [link](https://arxiv.org/pdf/2510.17797)
 
 ### Platform Services & Enterprise Solutions
 
 * [OpenAI] Operator. [link](https://openai.com/index/introducing-operator/)
+* [Venue Year] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
 * [Adobe] Adobe Experience Platform Agent Orchestrator. [link](https://business.adobe.com)
 * [Salesforce] Artificial Intelligence (AI) at Salesforce. [link](https://salesforce.com)
 
