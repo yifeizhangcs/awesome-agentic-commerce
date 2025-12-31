@@ -22,6 +22,7 @@ This repository complements the upcoming survey:
 
 * [Boston Consulting Group 2025] Agentic Commerce Is Redefining Retail — Here's How to Respond. [link](https://www.bcg.com/publications/2025/agentic-commerce-redefining-retail-how-to-respond)
 * [McKinsey & Company 2025] The Agentic Commerce Opportunity: How AI Agents Are Ushering in a New Era for Consumers and Merchants. [link](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants)
+* [Mastercard 2025] What is agentic commerce? Your guide to AI-assisted retail. [link](https://www.mastercard.com/global/en/news-and-trends/stories/2025/agentic-commerce-explainer.html)
 * [Visa 2025] What Is Agentic Commerce? [link](https://corporate.visa.com/en/sites/visa-perspectives/innovation/what-is-agentic-commerce.html)
 * [Google Cloud 2025] Agentic commerce is here: How retailers can prepare for the new shopping era [link](https://cloud.google.com/transform/agentic-commerce-retailers-can-prepare-for-the-new-shopping-era-ai)
 * [Shopify 2025] AI Agents: Harnessing Agentic AI for Ecommerce Businesses [link](https://www.shopify.com/blog/ai-agents)
@@ -75,6 +76,7 @@ This repository complements the upcoming survey:
 * [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
 * [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
 * [Venue Year] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
+* [Venue Year] Enhancing E-Commerce Query Rewriting: A Large Language Model Approach with Domain-Specific Pre-Training and Reinforcement Learning. [link](https://dl.acm.org/doi/epdf/10.1145/3627673.3680109)
 * [Venue Year] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
 * [Venue Year] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
 * [Venue Year] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
@@ -181,6 +183,7 @@ This repository complements the upcoming survey:
 * [Venue Year] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
 * [Venue Year] Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. [link](https://arxiv.org/pdf/2509.03811)
 * [Venue Year] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints. [link](https://arxiv.org/pdf/2503.16408)
+* [Venue Year] Safe Human Robot Navigation in Warehouse Scenario. [link](https://arxiv.org/pdf/2503.21141)
 
 #### Payment (Pay-Agent)
 
@@ -202,6 +205,7 @@ This repository complements the upcoming survey:
 #### Logistics (L-Agent)
 
 * [Venue Year] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
+* [Venue Year] Enabling Data-Driven and Empathetic Interactions: A Context-Aware 3D Virtual Agent in Mixed Reality for Enhanced Financial Customer Experience. [link](https://www.alphaxiv.org/abs/2410.12051)
 
 #### Payment (Pay-Agent)
 
@@ -277,6 +281,7 @@ This repository complements the upcoming survey:
 * [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
 * [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
 * [Venue Year] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
+* [Venue Year] Enhancing E-Commerce Query Rewriting: A Large Language Model Approach with Domain-Specific Pre-Training and Reinforcement Learning. [link](https://dl.acm.org/doi/epdf/10.1145/3627673.3680109)
 * [Venue Year] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
 * [Venue Year] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
 * [Venue Year] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
@@ -296,6 +301,18 @@ This repository complements the upcoming survey:
 * [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
 * [Venue Year] RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations. [link](https://arxiv.org/pdf/2505.06608)
 
+### Unmanned Stores & Autonomous Retail
+
+* [Wikipedia] Amazon Go. [link](https://en.wikipedia.org/wiki/Amazon_Go)
+* [Venue Year] A Survey of Challenges and Sensing Technologies in Autonomous Retail Systems. [link](https://arxiv.org/pdf/2503.07997)
+* [Nature Scientific Reports] Smart customer service in unmanned retail store enhanced by large language model. [link](https://www.nature.com/articles/s41598-024-71089-9)
+* [Venue Year] How AI Unmanned Retail Stores Operate Seamlessly in 2025. [link](https://vertu.com/ai-tools/ai-unmanned-retail-stores-2025/?srsltid=AfmBOoopA3Tjl4BgLyfsECX0LHCAnY5TK7cDLI4vAns-l2ZGSvHYB4-b)
+
+### Intelligent Cockpit & In-Vehicle Commerce
+
+* [SoundHound 2025] CES 2025: SoundHound AI Debuts Its First Ever In-Vehicle Voice Assistant With On-The-Go Food Ordering. [link](https://www.soundhound.com/newsroom/press-releases/ces-2025-soundhound-ai-debuts-its-first-ever-in-vehicle-voice-assistant-with-on-the-go-food-ordering)
+* [Alibaba Cloud 2025] Alibaba Unveils Intelligent Cockpits, Enterprise Partnerships and AI Glasses at WAIC 2025. [link](https://www.alibabacloud.com/blog/alibaba-unveils-intelligent-cockpits-enterprise-partnerships-and-ai-glasses-at-waic-2025_602409)
+
 ### Supply Chain, Warehousing & Embodied Commerce
 
 * [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
@@ -311,6 +328,8 @@ This repository complements the upcoming survey:
 * [Venue Year] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
 * [Venue Year] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments. [link](https://arxiv.org/pdf/2409.17655)
 * [Venue Year] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
+* [Venue Year] Safe Human Robot Navigation in Warehouse Scenario. [link](https://arxiv.org/pdf/2503.21141)
+* [Amazon] Amazon has more than 1 million robots that sort, lift, and carry packages—see them in action. [link](https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center)
 
 ### Negotiation & Pricing
 
@@ -325,6 +344,7 @@ This repository complements the upcoming survey:
 * [OpenAI] Agentic Commerce Protocol (ACP). [link](https://github.com/openai/agentic-commerce-protocol)
 * [W3C 2025] Verifiable Credentials 2.0 family of specifications. [link](https://www.w3.org/news/2025/the-verifiable-credentials-2-0-family-of-specifications-is-now-a-w3c-recommendation/)
 * [Venue Year] Agent TCP/IP: An Agent-to-Agent Transaction System. [link](https://arxiv.org/pdf/2501.06243)
+* [Venue Year] Building A Secure Agentic AI Application Leveraging Google's A2A Protocol. [link](https://arxiv.org/pdf/2504.16902)
 
 ### Payment & Transaction Protocols
 
