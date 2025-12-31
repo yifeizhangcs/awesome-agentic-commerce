@@ -211,15 +211,7 @@ This repository complements the upcoming survey:
 
 ### Loyalty
 
-#### Consumer (C-Agent)
-
-#### Merchant (M-Agent)
-
-#### Platform (P-Agent)
-
-#### Logistics (L-Agent)
-
-#### Payment (Pay-Agent)
+*No papers available yet. This is a promising future direction for agentic commerce research.*
 
 ---
 
