@@ -36,30 +36,26 @@ This repository complements the upcoming survey:
 
 > **Stage focus:** pre-intent exposure and demand formation (who gets seen, when, and under what constraints)
 
-#### Platform (P-Agent)
+#### Merchant-Agent
 
-* [Venue Year] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://arxiv.org/pdf/2502.00792)
+* [arXiv] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
+* [EMNLP 2024] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
+* [arXiv] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://arxiv.org/pdf/2502.00792)
+* [arXiv] Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
+  
+#### Platform-Agent
+
+* [ACL Findings 2025] Personax: A recommendation agent oriented user modeling framework for long behavior sequence. [link](https://aclanthology.org/2025.findings-acl.300.pdf)
+* [KDD 2023] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
 * [Venue Year] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
-* [Venue Year] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
-
-#### Merchant (M-Agent)
-
-* [Venue Year] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
-* [Venue Year] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
-
-#### Consumer (C-Agent)
-
-#### Logistics (L-Agent)
-
-#### Payment (Pay-Agent)
-
+* [TMLR] Rec-r1: Bridging generative large language models and user-centric recommendation systems via reinforcement learning. [link](https://arxiv.org/pdf/2503.24289)
 ---
 
 ### Discovery
 
 > **Stage focus:** intent-grounded exploration via search and recommendation (finding plausible candidates, not committing)
 
-#### Consumer (C-Agent)
+#### Consumer-Agent
 
 * [ACL Findings 2025] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://aclanthology.org/2025.findings-acl.928.pdf)
 * [Venue Year] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
@@ -71,7 +67,7 @@ This repository complements the upcoming survey:
 * [Venue Year] Flippi: End To End GenAI Assistant for E-Commerce. [link](https://arxiv.org/pdf/2507.05788)
 * [Venue Year] Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence. [link](https://arxiv.org/pdf/2506.15677)
 
-#### Platform (P-Agent)
+#### Platform-Agent
 
 * [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
 * [Venue Year] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
@@ -87,23 +83,17 @@ This repository complements the upcoming survey:
 * [Venue Year] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
 * [Venue Year] Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics. [link](https://arxiv.org/pdf/2510.17797)
 * [Venue Year] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
-
-#### Merchant (M-Agent)
-
-#### Logistics (L-Agent)
-
-#### Payment (Pay-Agent)
-
+---
 
 ### Engagement
 
-#### Consumer (C-Agent)
+#### Consumer-Agent
 
 * [Venue Year] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
 * [Venue Year] Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment. [link](https://arxiv.org/pdf/2403.12965)
 * [Venue Year] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2403.12965)
 
-#### Merchant (M-Agent)
+#### Merchant-Agent
 
 * [Venue Year] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
 * [Venue Year] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
@@ -112,19 +102,17 @@ This repository complements the upcoming survey:
 * [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
 * [Venue Year] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
 
-#### Platform (P-Agent)
+#### Platform-Agent
 
 * [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
 * [Venue Year] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
 * [Venue Year] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
 
-#### Logistics (L-Agent)
-
-#### Payment (Pay-Agent)
+---
 
 ### Decision
 
-#### Consumer (C-Agent)
+#### Consumer-Agent
 
 * [Venue Year] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants? [link](https://arxiv.org/pdf/2509.21501)
 * [Venue Year] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://arxiv.org/pdf/2402.05863)
@@ -134,35 +122,23 @@ This repository complements the upcoming survey:
 * [ACL 2025] Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning. [link](https://aclanthology.org/2025.acl-long.1339.pdf)
 * [Venue Year] Build Agent Advocates, Not Platform Agents. [link](https://arxiv.org/pdf/2505.04345)
 
-#### Merchant (M-Agent)
+#### Merchant-Agent
 
 * [Venue Year] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
 * [Venue Year] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://arxiv.org/pdf/2310.17512)
 
-#### Platform (P-Agent)
+#### Platform-Agent
 
 * [Venue Year] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
 * [Venue Year] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
 * [Venue Year] RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations. [link](https://arxiv.org/pdf/2505.06608)
 
-#### Logistics (L-Agent)
+---
 
-#### Payment (Pay-Agent)
 
 ### Transaction
 
-#### Consumer (C-Agent)
-
-#### Merchant (M-Agent)
-
-* [Venue Year] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
-* [Venue Year] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://arxiv.org/pdf/2506.00073v3)
-
-#### Platform (P-Agent)
-
-#### Logistics (L-Agent)
-
-#### Payment (Pay-Agent)
+#### Payment-Agent
 
 * [Venue Year] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
@@ -171,17 +147,11 @@ This repository complements the upcoming survey:
 * [Venue Year] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://arxiv.org/pdf/2508.19932)
 * [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 
+---
+
 ### Fulfillment
 
-#### Consumer (C-Agent)
-
-* [Venue Year] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments. [link](https://arxiv.org/pdf/2409.17655)
-
-#### Merchant (M-Agent)
-
-#### Platform (P-Agent)
-
-#### Logistics (L-Agent)
+#### Supply-Side-Agent
 
 * [Venue Year] L3MVN: Leveraging Large Language Models for Visual Target Navigation. [link](https://arxiv.org/pdf/2304.05501)
 * [Venue Year] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs. [link](https://arxiv.org/pdf/2407.07775)
@@ -193,29 +163,26 @@ This repository complements the upcoming survey:
 * [Venue Year] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints. [link](https://arxiv.org/pdf/2503.16408)
 * [Venue Year] Safe Human Robot Navigation in Warehouse Scenario. [link](https://arxiv.org/pdf/2503.21141)
 
-#### Payment (Pay-Agent)
+---
 
 ### Service
 
-#### Consumer (C-Agent)
+#### Consumer-Agent
 
 * [Venue Year] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
 * [Venue Year] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
 
-#### Merchant (M-Agent)
-
-* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
-
-#### Platform (P-Agent)
+#### Platform-Agent
 
 * [Venue Year] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
+* [Venue Year] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
 
-#### Logistics (L-Agent)
+#### Supply-Side-Agent
 
 * [Venue Year] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
 * [Venue Year] Enabling Data-Driven and Empathetic Interactions: A Context-Aware 3D Virtual Agent in Mixed Reality for Enhanced Financial Customer Experience. [link](https://www.alphaxiv.org/abs/2410.12051)
 
-#### Payment (Pay-Agent)
+---
 
 ### Loyalty
 
