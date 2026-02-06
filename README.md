@@ -206,6 +206,7 @@ This repository complements the survey:
 * [arXiv] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://arxiv.org/pdf/2504.00338)
 * [arXiv] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
 * [EMNLP Industry 2024] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
+* [SIGIR 2025] Insight Agents: An LLM-Based Multi-Agent System for Data Insights. [link](https://arxiv.org/pdf/2601.20048)
 
 ### Sales & Customer Service
 
