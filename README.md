@@ -8,7 +8,7 @@ A curated list of resources on **Agentic Commerce (A-Commerce)**, covering agent
 This repository complements the survey:
 
 > **Agentic Commerce: A Survey of How AI Agents Are Reshaping Commerce**  
-> [TechRxiv Preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972193.39211542/v1)
+> [TechRxiv Preprint](https://d197for5662m48.cloudfront.net/documents/publicationstatus/303971/preprint_pdf/6e6fa272238a6481c4ef277f508aa97d.pdf)
 
 ```bibtex
 @article{zhang2026agentic-commerce,
