@@ -72,6 +72,7 @@ This repository complements the survey:
 * [NeurIPS 2022] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
 * [arXiv] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://arxiv.org/pdf/2502.14662)
 * [REALM 2025] PAARS: Persona aligned agentic retail shoppers. [link](https://arxiv.org/pdf/2503.24228)
+* [arXiv] ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation. [link](https://arxiv.org/pdf/2602.23716)
 
 #### Platform-Agent
 
@@ -193,6 +194,8 @@ This repository complements the survey:
 * [EMNLP 2025] RETAIL: Towards Real-world Travel Planning for Large Language Models. [link](https://aclanthology.org/2025.emnlp-main.752.pdf)
 * [ACL 2025] Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning. [link](https://aclanthology.org/2025.acl-long.1339.pdf)
 * [arXiv] Build Agent Advocates, Not Platform Agents. [link](https://arxiv.org/pdf/2505.04345)
+* [arXiv] ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation. [link](https://arxiv.org/pdf/2602.23716)
+
 
 ### Marketplaces (C2C / P2P)
 
