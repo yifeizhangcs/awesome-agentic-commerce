@@ -46,18 +46,18 @@ This repository complements the survey:
 
 #### Merchant-Agent
 
-* [arXiv] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
-* [EMNLP Industry 2024] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
-* [WWW Companion 2025] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://doi.org/10.1145/3701716.3715259)
 * [TKDE 2024] Hierarchical Multi-Agent Meta-Reinforcement Learning for Cross-Channel Bidding. [link](https://ieeexplore.ieee.org/document/10817487/)
+* [EMNLP Industry 2024] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
 * [ICLR 2025 FM-Wild Workshop] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://openreview.net/forum?id=4qzqY0PFRK)
-* [arXiv] E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought. [link](https://arxiv.org/pdf/2602.21698)
+* [arXiv 2025] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
+* [WWW Companion 2025] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://doi.org/10.1145/3701716.3715259)
+* [arXiv 2026] E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought. [link](https://arxiv.org/pdf/2602.21698)
   
 #### Platform-Agent
 
-* [arXiv] PersonaX: A recommendation agent oriented user modeling framework for long behavior sequence. [link](https://arxiv.org/pdf/2503.02398)
 * [KDD 2023] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
-* [arXiv] Rec-R1: Bridging generative large language models and user-centric recommendation systems via reinforcement learning. [link](https://arxiv.org/pdf/2503.24289)
+* [ACL Findings 2025] PersonaX: A Recommendation Agent-Oriented User Modeling Framework for Long Behavior Sequence. [link](https://aclanthology.org/2025.findings-acl.300/)
+* [arXiv 2025] Rec-R1: Bridging generative large language models and user-centric recommendation systems via reinforcement learning. [link](https://arxiv.org/pdf/2503.24289)
 
 #### Consumer-Agent
 
@@ -70,53 +70,53 @@ This repository complements the survey:
 
 #### Consumer-Agent
 
-* [arXiv] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents. [link](https://arxiv.org/pdf/2508.04266)
 * [NeurIPS 2022] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
-* [arXiv] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://arxiv.org/pdf/2502.14662)
+* [ACL Findings 2025] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://aclanthology.org/2025.findings-acl.928/)
 * [REALM 2025] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://aclanthology.org/2025.realm-1.11.pdf)
-* [arXiv] ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation. [link](https://arxiv.org/pdf/2602.23716)
-* [arXiv] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
+* [arXiv 2025] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents. [link](https://arxiv.org/pdf/2508.04266)
+* [arXiv 2026] ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation. [link](https://arxiv.org/pdf/2602.23716)
+* [arXiv 2026] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
 
 #### Platform-Agent
 
-* [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
-* [arXiv] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
-* [arXiv] RecMind: Large Language Model Powered Agent For Recommendation. [link](https://arxiv.org/pdf/2308.14296)
-* [arXiv] CARTS: Collaborative Agents for Recommendation Textual Summarization. [link](https://arxiv.org/pdf/2506.17765)
+* [WWW 2024] AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems. [link](https://doi.org/10.1145/3589334.3645537)
 * [SIGIR 2024] Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657828)
-* [arXiv] AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems. [link](https://arxiv.org/pdf/2310.09233)
+* [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
+* [SIGIR 2024] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
+* [NAACL Findings 2024] RecMind: Large Language Model Powered Agent For Recommendation. [link](https://aclanthology.org/2024.findings-naacl.271/)
+* [arXiv 2025] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
+* [arXiv 2025] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
+* [arXiv 2025] CARTS: Collaborative Agents for Recommendation Textual Summarization. [link](https://arxiv.org/pdf/2506.17765)
+* [WSDM 2025] Enhancing E-Commerce Query Rewriting: A Large Language Model Approach with Domain-Specific Pre-Training and Reinforcement Learning. [link](https://dl.acm.org/doi/epdf/10.1145/3627673.3680109)
+* [arXiv 2025] Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics. [link](https://arxiv.org/pdf/2510.17797)
+* [arXiv 2025] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
+* [arXiv 2025] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
+* [arXiv 2025] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
 * [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
 * [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
-* [arXiv] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
-* [WSDM 2025] Enhancing E-Commerce Query Rewriting: A Large Language Model Approach with Domain-Specific Pre-Training and Reinforcement Learning. [link](https://dl.acm.org/doi/epdf/10.1145/3627673.3680109)
-* [arXiv] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
-* [arXiv] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
-* [arXiv] Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics. [link](https://arxiv.org/pdf/2510.17797)
-* [arXiv] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
-* [SIGIR 2024] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
 ---
 
 ### Engagement
 
 #### Consumer-Agent
 
-* [arXiv] ChatShop: Interactive information seeking with language agents. [link](https://arxiv.org/pdf/2404.09911)
+* [arXiv 2024] ChatShop: Interactive information seeking with language agents. [link](https://arxiv.org/pdf/2404.09911)
+* [arXiv 2025] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
 * [NLLP 2025] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://aclanthology.org/2025.nllp-1.2.pdf)
-* [arXiv] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
 
 #### Merchant-Agent
 
+* [arXiv 2025] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
 * [EMNLP 2025] ASTRA: A Negotiation Agent with Adaptive and Strategic Reasoning via Tool-integrated Action for Dynamic Offer Optimization. [link](https://aclanthology.org/2025.emnlp-main.821.pdf)
-* [arXiv] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
-* [arXiv] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
-* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
-* [arXiv] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
 * [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
+* [arXiv 2025] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
+* [arXiv 2025] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
+* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
 
 #### Platform-Agent
 
+* [KDD 2025] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://doi.org/10.1145/3711896.3737208)
 * [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
-* [arXiv] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
 
 ---
 
@@ -134,10 +134,10 @@ This repository complements the survey:
 
 #### Payment-Agent
 
-* [arXiv] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
+* [arXiv 2025] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://arxiv.org/pdf/2508.19932)
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
-* [arXiv] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://arxiv.org/pdf/2508.19932)
+* [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 
 ---
@@ -146,17 +146,17 @@ This repository complements the survey:
 
 #### Supply-Side Agent
 
+* [IROS 2023] L3MVN: Leveraging Large Language Models for Visual Target Navigation. [link](https://doi.org/10.1109/IROS55552.2023.10342512)
 * [CoRL 2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
-* [arXiv] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
-* [arXiv] L3MVN: Leveraging Large Language Models for Visual Target Navigation. [link](https://arxiv.org/pdf/2304.05501)
-* [arXiv] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs. [link](https://arxiv.org/pdf/2407.07775)
-* [ICRA Workshop 2025] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
+* [RSS 2024] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://rpl.cs.utexas.edu/publications/2024/07/15/nasiriany-rss24-robocasa/)
+* [arXiv 2025] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
+* [arXiv 2025] Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. [link](https://arxiv.org/pdf/2509.03811)
+* [CoRL 2025] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs. [link](https://proceedings.mlr.press/v270/xu25b.html)
+* [arXiv 2025] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
 * [Sustainability 2025] Research on Composite Robot Scheduling and Task Allocation for Warehouse Logistics Systems. [link](https://www.mdpi.com/2071-1050/17/11/5051)
-* [arXiv] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
-* [arXiv] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
-* [arXiv] Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. [link](https://arxiv.org/pdf/2509.03811)
-* [arXiv] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints. [link](https://arxiv.org/pdf/2503.16408)
-* [arXiv] Safe Human Robot Navigation in Warehouse Scenario. [link](https://arxiv.org/pdf/2503.21141)
+* [arXiv 2025] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints. [link](https://arxiv.org/pdf/2503.16408)
+* [arXiv 2025] Safe Human Robot Navigation in Warehouse Scenario. [link](https://arxiv.org/pdf/2503.21141)
+* [ICRA Workshop 2025] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
 
 ---
 
@@ -168,8 +168,8 @@ This repository complements the survey:
 
 #### Platform-Agent
 
-* [arXiv] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
-* [arXiv] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
+* [arXiv 2025] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
+* [arXiv 2025] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
 
 ---
 
@@ -182,68 +182,68 @@ This repository complements the survey:
 * [Perplexity] Shop like a Pro. [link](https://perplexity.ai)
 * [Amazon] Rufus: AI Shopping Assistant. [link](https://aws.amazon.com/solutions/amazon/one-amazon-lane/shopping-tools/)
 * [Amazon 2025] Buy for Me. [link](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands)
-* [arXiv] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
-* [REALM 2025] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://aclanthology.org/2025.realm-1.11.pdf)
 * [NeurIPS 2022] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
-* [arXiv] Flippi: End To End GenAI Assistant for E-Commerce. [link](https://arxiv.org/pdf/2507.05788)
-* [arXiv] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://arxiv.org/pdf/2502.14662)
-* [arXiv] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
+* [arXiv 2023] Intelligent Virtual Assistants with LLM-based Process Automation. [link](https://arxiv.org/pdf/2312.06677)
+* [arXiv 2024] TravelAgent: An AI Assistant for Personalized Travel Planning. [link](https://arxiv.org/pdf/2409.08069)
 * [CVPR 2024] Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment. [link](https://arxiv.org/pdf/2403.12965)
-* [arXiv] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2507.13311)
-* [arXiv] TravelAgent: An AI Assistant for Personalized Travel Planning. [link](https://arxiv.org/pdf/2409.08069)
-* [arXiv] DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents. [link](https://arxiv.org/pdf/2509.21842)
-* [EMNLP 2025] RETAIL: Towards Real-world Travel Planning for Large Language Models. [link](https://aclanthology.org/2025.emnlp-main.752.pdf)
+* [arXiv 2025] Build Agent Advocates, Not Platform Agents. [link](https://arxiv.org/pdf/2505.04345)
+* [arXiv 2025] DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents. [link](https://arxiv.org/pdf/2509.21842)
+* [arXiv 2025] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2507.13311)
+* [arXiv 2025] Flippi: End To End GenAI Assistant for E-Commerce. [link](https://arxiv.org/pdf/2507.05788)
+* [ACL Findings 2025] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://aclanthology.org/2025.findings-acl.928/)
+* [REALM 2025] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://aclanthology.org/2025.realm-1.11.pdf)
 * [ACL 2025] Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning. [link](https://aclanthology.org/2025.acl-long.1339.pdf)
-* [arXiv] Build Agent Advocates, Not Platform Agents. [link](https://arxiv.org/pdf/2505.04345)
-* [arXiv] ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation. [link](https://arxiv.org/pdf/2602.23716)
-* [arXiv] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
+* [EMNLP 2025] RETAIL: Towards Real-world Travel Planning for Large Language Models. [link](https://aclanthology.org/2025.emnlp-main.752.pdf)
+* [arXiv 2025] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
+* [arXiv 2026] ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation. [link](https://arxiv.org/pdf/2602.23716)
+* [arXiv 2026] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
 
 
 ### Marketplaces (C2C / P2P)
 
-* [arXiv] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
-* [arXiv] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
+* [arXiv 2025] FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace. [link](https://arxiv.org/pdf/2509.03890v1)
+* [arXiv 2025] FishBargain: An LLM-Empowered Bargaining Agent for Online Fleamarket Platform Sellers. [link](https://arxiv.org/pdf/2502.10406)
 * [NLLP 2025] The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets. [link](https://aclanthology.org/2025.nllp-1.2.pdf)
 
 ### Advertising, Bidding & Merchant Growth
 
 * [TKDE 2024] Hierarchical Multi-Agent Meta-Reinforcement Learning for Cross-Channel Bidding. [link](https://ieeexplore.ieee.org/document/10817487/)
-* [WWW Companion 2025] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://doi.org/10.1145/3701716.3715259)
-* [ICLR 2025 FM-Wild Workshop] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://openreview.net/forum?id=4qzqY0PFRK)
-* [arXiv] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
 * [EMNLP Industry 2024] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
+* [ICLR 2025 FM-Wild Workshop] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://openreview.net/forum?id=4qzqY0PFRK)
+* [arXiv 2025] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
 * [SIGIR 2025] Insight Agents: An LLM-Based Multi-Agent System for Data Insights. [link](https://arxiv.org/pdf/2601.20048)
-* [arXiv] E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought. [link](https://arxiv.org/pdf/2602.21698)
+* [WWW Companion 2025] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://doi.org/10.1145/3701716.3715259)
+* [arXiv 2026] E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought. [link](https://arxiv.org/pdf/2602.21698)
 
 ### Sales & Customer Service
 
 * [Amazon] Seller Assistant. [link](https://aws.amazon.com/solutions/amazon/one-amazon-lane/home-office/)
-* [arXiv] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
-* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
-* [arXiv] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
+* [arXiv 2025] AI-Salesman: Towards Reliable Large Language Model Driven Telemarketing. [link](https://www.arxiv.org/pdf/2511.12133)
 * [IWSDS 2025] Exploring Personality-Aware Interactions in Salesperson Dialogue Agents. [link](https://aclanthology.org/2025.iwsds-1.6.pdf)
-* [arXiv] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
+* [arXiv 2025] MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service. [link](https://arxiv.org/pdf/2507.18884)
+* [arXiv 2025] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
+* [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
 
 ### Recommendation & Search Systems
 
-* [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
-* [arXiv] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
-* [arXiv] RecMind: Large Language Model Powered Agent For Recommendation. [link](https://arxiv.org/pdf/2308.14296)
-* [arXiv] CARTS: Collaborative Agents for Recommendation Textual Summarization. [link](https://arxiv.org/pdf/2506.17765)
-* [SIGIR 2024] Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657828)
-* [arXiv] AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems. [link](https://arxiv.org/pdf/2310.09233)
-* [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
-* [SIGIR 2024] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
-* [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
-* [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
-* [arXiv] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
-* [WSDM 2025] Enhancing E-Commerce Query Rewriting: A Large Language Model Approach with Domain-Specific Pre-Training and Reinforcement Learning. [link](https://dl.acm.org/doi/epdf/10.1145/3627673.3680109)
-* [arXiv] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
-* [arXiv] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
-* [arXiv] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
 * [KDD 2023] NEON: Living Needs Prediction System in Meituan. [link](https://arxiv.org/pdf/2307.16644)
-* [arXiv] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
-* [arXiv] Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics. [link](https://arxiv.org/pdf/2510.17797)
+* [WWW 2024] AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems. [link](https://doi.org/10.1145/3589334.3645537)
+* [SIGIR 2024] Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657828)
+* [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
+* [SIGIR 2024] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
+* [NAACL Findings 2024] RecMind: Large Language Model Powered Agent For Recommendation. [link](https://aclanthology.org/2024.findings-naacl.271/)
+* [arXiv 2025] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
+* [arXiv 2025] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
+* [arXiv 2025] CARTS: Collaborative Agents for Recommendation Textual Summarization. [link](https://arxiv.org/pdf/2506.17765)
+* [WSDM 2025] Enhancing E-Commerce Query Rewriting: A Large Language Model Approach with Domain-Specific Pre-Training and Reinforcement Learning. [link](https://dl.acm.org/doi/epdf/10.1145/3627673.3680109)
+* [arXiv 2025] Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics. [link](https://arxiv.org/pdf/2510.17797)
+* [arXiv 2025] Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems. [link](https://arxiv.org/pdf/2510.13291)
+* [arXiv 2025] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
+* [arXiv 2025] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
+* [arXiv 2025] LORE: A Large Generative Model for Search Relevance. [link](https://arxiv.org/pdf/2512.03025)
+* [WWW 2025] LREF: A Novel LLM-based Relevance Framework for E-commerce Search. [link](https://dl.acm.org/doi/pdf/10.1145/3701716.3715246)
+* [ACM Transactions on Information Systems 2025] Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations. [link](https://arxiv.org/pdf/2308.16505)
+* [ACL Industry 2025] User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems. [link](https://aclanthology.org/2025.acl-industry.70.pdf)
 
 ### Platform Services & Enterprise Solutions
 
@@ -253,15 +253,15 @@ This repository complements the survey:
 
 ### Mobility & On-demand Services
 
-* [arXiv] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://arxiv.org/pdf/2503.04768v3)
-* [arXiv] RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations. [link](https://arxiv.org/pdf/2505.06608)
 * [Transportation Research Part C 2025] Agentic Large Language Models for day-to-day route choices (LLMTraveler). [link](https://www.sciencedirect.com/science/article/pii/S0968090X25003110)
+* [KDD 2025] DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi. [link](https://doi.org/10.1145/3711896.3737208)
+* [arXiv 2025] RideAgent: An LLM-Enhanced Optimization Framework for Automated Taxi Fleet Operations. [link](https://arxiv.org/pdf/2505.06608)
 
 ### Unmanned Stores & Autonomous Retail
 
 * [Wikipedia] Amazon Go. [link](https://en.wikipedia.org/wiki/Amazon_Go)
-* [arXiv] A Survey of Challenges and Sensing Technologies in Autonomous Retail Systems. [link](https://arxiv.org/pdf/2503.07997)
 * [Nature Scientific Reports 2024] Smart customer service in unmanned retail store enhanced by large language model. [link](https://www.nature.com/articles/s41598-024-71089-9)
+* [arXiv 2025] A Survey of Challenges and Sensing Technologies in Autonomous Retail Systems. [link](https://arxiv.org/pdf/2503.07997)
 
 ### Intelligent Cockpit & In-Vehicle Commerce
 
@@ -270,27 +270,27 @@ This repository complements the survey:
 
 ### Supply Chain, Warehousing & Embodied Commerce
 
+* [IROS 2023] L3MVN: Leveraging Large Language Models for Visual Target Navigation. [link](https://doi.org/10.1109/IROS55552.2023.10342512)
 * [CoRL 2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [link](https://arxiv.org/pdf/2307.15818)
-* [arXiv] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://arxiv.org/pdf/2406.02523)
-* [ICRA Workshop 2025] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
+* [arXiv 2024] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments. [link](https://arxiv.org/pdf/2409.17655)
+* [RSS 2024] RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [link](https://rpl.cs.utexas.edu/publications/2024/07/15/nasiriany-rss24-robocasa/)
+* [arXiv 2025] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
+* [arXiv 2025] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
+* [arXiv 2025] Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. [link](https://arxiv.org/pdf/2509.03811)
+* [CoRL 2025] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs. [link](https://proceedings.mlr.press/v270/xu25b.html)
+* [arXiv 2025] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
+* [arXiv 2025] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
 * [Sustainability 2025] Research on Composite Robot Scheduling and Task Allocation for Warehouse Logistics Systems. [link](https://www.mdpi.com/2071-1050/17/11/5051)
-* [arXiv] Physics-Aware Robotic Palletization with Online Masking Inference. [link](https://arxiv.org/pdf/2502.13443)
-* [arXiv] Agentic AI Framework for Smart Inventory Replenishment. [link](https://www.arxiv.org/pdf/2511.23366)
-* [arXiv] Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. [link](https://arxiv.org/pdf/2509.03811)
-* [arXiv] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints. [link](https://arxiv.org/pdf/2503.16408)
-* [arXiv] L3MVN: Leveraging Large Language Models for Visual Target Navigation. [link](https://arxiv.org/pdf/2304.05501)
-* [arXiv] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs. [link](https://arxiv.org/pdf/2407.07775)
-* [arXiv] IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios. [link](https://arxiv.org/pdf/2505.20640)
-* [arXiv] AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environments. [link](https://arxiv.org/pdf/2409.17655)
-* [arXiv] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
-* [arXiv] Safe Human Robot Navigation in Warehouse Scenario. [link](https://arxiv.org/pdf/2503.21141)
+* [arXiv 2025] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints. [link](https://arxiv.org/pdf/2503.16408)
+* [arXiv 2025] Safe Human Robot Navigation in Warehouse Scenario. [link](https://arxiv.org/pdf/2503.21141)
+* [ICRA Workshop 2025] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
 * [Amazon] Amazon has more than 1 million robots that sort, lift, and carry packages—see them in action. [link](https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center)
 
 ### Negotiation & Pricing
 
-* [arXiv] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://arxiv.org/pdf/2402.05863)
-* [arXiv] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
-* [arXiv] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://arxiv.org/pdf/2310.17512)
+* [ICML 2024] CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents. [link](https://proceedings.mlr.press/v235/zhao24q.html)
+* [ICML 2024] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://proceedings.mlr.press/v235/bianchi24a.html)
+* [arXiv 2025] Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiation Competition. [link](https://arxiv.org/pdf/2503.06416)
 
 ### Protocols & Standards
 
@@ -298,39 +298,39 @@ This repository complements the survey:
 * [Agent2Agent Protocol] Agent2Agent (A2A) Protocol. [link](https://a2a-protocol.org)
 * [OpenAI] Agentic Commerce Protocol (ACP). [link](https://github.com/openai/agentic-commerce-protocol)
 * [W3C 2025] Verifiable Credentials 2.0 family of specifications. [link](https://www.w3.org/news/2025/the-verifiable-credentials-2-0-family-of-specifications-is-now-a-w3c-recommendation/)
-* [arXiv] Agent TCP/IP: An Agent-to-Agent Transaction System. [link](https://arxiv.org/pdf/2501.06243)
-* [arXiv] Building A Secure Agentic AI Application Leveraging Google's A2A Protocol. [link](https://arxiv.org/pdf/2504.16902)
+* [arXiv 2025] Agent TCP/IP: An Agent-to-Agent Transaction System. [link](https://arxiv.org/pdf/2501.06243)
+* [arXiv 2025] Building A Secure Agentic AI Application Leveraging Google's A2A Protocol. [link](https://arxiv.org/pdf/2504.16902)
 
 ### Payment & Transaction Protocols
 
-* [arXiv] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
+* [arXiv 2025] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://arxiv.org/pdf/2508.19932)
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 * [GitHub] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
-* [arXiv] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://arxiv.org/pdf/2508.19932)
+* [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 
 ---
 
 ## Part III: Benchmarks
 
-* [arXiv] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents. [link](https://arxiv.org/pdf/2508.04266)
-* [arXiv] DeepShop: A Benchmark for Deep Research Shopping Agents. [link](https://arxiv.org/pdf/2506.02839)
-* [arXiv] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
 * [NeurIPS 2022] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
-* [arXiv] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
-* [arXiv] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
-* [arXiv] Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets. [link](https://arxiv.org/pdf/2510.25779)
+* [ICML 2024] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://proceedings.mlr.press/v235/bianchi24a.html)
+* [arXiv 2025] $\tau^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment. [link](https://arxiv.org/pdf/2506.07982)
+* [arXiv 2025] DeepShop: A Benchmark for Deep Research Shopping Agents. [link](https://arxiv.org/pdf/2506.02839)
+* [arXiv 2025] EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce. [link](https://arxiv.org/pdf/2512.08868)
+* [arXiv 2025] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants? [link](https://arxiv.org/pdf/2509.21501)
+* [arXiv 2025] LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services in Meituan. [link](https://arxiv.org/pdf/2506.02720)
+* [arXiv 2025] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services. [link](https://www.arxiv.org/pdf/2512.07436)
+* [arXiv 2025] Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets. [link](https://arxiv.org/pdf/2510.25779)
+* [arXiv 2025] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
+* [arXiv 2025] ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents. [link](https://arxiv.org/pdf/2508.04266)
 * [ACL Industry 2025] SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation. [link](https://aclanthology.org/2025.acl-industry.5.pdf)
-* [arXiv] EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce. [link](https://arxiv.org/pdf/2512.08868)
-* [arXiv] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
-* [arXiv] Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions. [link](https://arxiv.org/pdf/2507.02698)
-* [arXiv] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://arxiv.org/pdf/2402.05863)
-* [arXiv] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants? [link](https://arxiv.org/pdf/2509.21501)
-* [arXiv] $\tau^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment. [link](https://arxiv.org/pdf/2506.07982)
+* [arXiv 2025] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
+* [arXiv 2026] DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints. [link](https://www.arxiv.org/pdf/2601.18137)
+* [arXiv 2026] E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought. [link](https://arxiv.org/pdf/2602.21698)
+* [arXiv 2026] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
 * [ICLR 2026] VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in Real-world Applications. [link](https://arxiv.org/pdf/2509.26490)
-* [arXiv] DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints. [link](https://www.arxiv.org/pdf/2601.18137)
-* [arXiv] E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought. [link](https://arxiv.org/pdf/2602.21698)
   
 ---
 
