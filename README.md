@@ -297,6 +297,7 @@ This repository complements the survey:
 ### Protocols & Standards
 
 * [Model Context Protocol] Model Context Protocol (MCP). [link](https://modelcontextprotocol.io)
+* [Packrift] Catalog context card for MCP and agentic buying flows in packaging and warehouse supplies. [link](https://packrift.com/pages/mcp-server-card)
 * [Agent2Agent Protocol] Agent2Agent (A2A) Protocol. [link](https://a2a-protocol.org)
 * [OpenAI] Agentic Commerce Protocol (ACP). [link](https://github.com/openai/agentic-commerce-protocol)
 * [W3C 2025] Verifiable Credentials 2.0 family of specifications. [link](https://www.w3.org/news/2025/the-verifiable-credentials-2-0-family-of-specifications-is-now-a-w3c-recommendation/)
