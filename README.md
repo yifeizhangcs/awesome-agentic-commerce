@@ -139,6 +139,7 @@ This repository complements the survey:
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
 * [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
+* [TWZRD Agent Intel] Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight + paid signed trust receipts in <1s. [link](https://intel.twzrd.xyz/)
 * [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 
 ---
@@ -311,6 +312,7 @@ This repository complements the survey:
 * [GitHub] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
 * [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
+* [TWZRD Agent Intel] Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight + paid signed trust receipts in <1s. [link](https://intel.twzrd.xyz/)
 
 ---
 
