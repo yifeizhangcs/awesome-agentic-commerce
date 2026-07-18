@@ -38,6 +38,8 @@ This repository complements the survey:
 *Organization: **Stage** → **Agent Role** (as defined in the survey).*  
 *Lifecycle stages (§2): Awareness → Discovery → Engagement → Decision → Transaction → Fulfillment → Service.*
 
+> **Classification policy:** The stage is the primary point at which an agent changes a commerce outcome; the role is the principal whose objectives and authority the agent serves. Part I includes work that implements, trains, or directly evaluates an agent acting at a specific stage. Protocols, non-agent benchmarks, ecosystem measurements, and surveys are not forced into an agent role and are organized in Parts II–III instead. A work may appear once in the lifecycle view and again in a complementary thematic or evaluation view.
+
 [![Agentic Commerce pipeline and agent roles across lifecycle stages](assets/pipeline.png)](assets/pipeline.pdf)
 
 ### Awareness
@@ -51,7 +53,6 @@ This repository complements the survey:
 * [ICLR 2025 FM-Wild Workshop] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://openreview.net/forum?id=4qzqY0PFRK)
 * [arXiv 2025] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design. [link](https://arxiv.org/pdf/2506.21934)
 * [WWW Companion 2025] RTBAgent: A LLM-based Agent System for Real-Time Bidding. [link](https://doi.org/10.1145/3701716.3715259)
-* [CVPR 2026] E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought. [link](https://arxiv.org/pdf/2602.21698)
   
 #### Platform-Agent
 
@@ -109,6 +110,8 @@ This repository complements the survey:
 
 ### Engagement
 
+> **Stage focus:** interactive preference elicitation, persuasion, assistance, or negotiation before a final commitment
+
 #### Consumer-Agent
 
 * [arXiv 2024] ChatShop: Interactive information seeking with language agents. [link](https://arxiv.org/pdf/2404.09911)
@@ -136,6 +139,8 @@ This repository complements the survey:
 
 ### Decision
 
+> **Stage focus:** evaluating or comparing candidates and making a final selection or commitment
+
 #### Consumer-Agent
 
 * [ACL 2025] Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning. [link](https://aclanthology.org/2025.acl-long.1339.pdf)
@@ -147,19 +152,18 @@ This repository complements the survey:
 
 ### Transaction
 
+> **Stage focus:** authorization, payment, clearing, settlement, and execution of an agreed transaction
+
 #### Payment-Agent
 
 * [IEEE BigData 2025] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://doi.org/10.1109/BigData66926.2025.11402424)
-* [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
-* [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
-* [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
-* [arXiv 2026] Five Attacks on x402 Agentic Payment Protocol. [link](https://arxiv.org/abs/2605.11781)
-* [arXiv 2026] RAILS: Verification-Native Clearing For Agentic Commerce. [link](https://arxiv.org/abs/2606.08790)
 
 ---
 
 ### Fulfillment
+
+> **Stage focus:** inventory, supply-chain, warehousing, logistics, and physical delivery after a decision or transaction
 
 #### Supply-Side Agent
 
@@ -181,6 +185,8 @@ This repository complements the survey:
 
 ### Service
 
+> **Stage focus:** post-purchase support, issue resolution, retention, and the ongoing customer relationship
+
 #### Consumer-Agent
 
 *No canonical benchmark/paper list yet in the survey; contributions welcome.*
@@ -192,7 +198,7 @@ This repository complements the survey:
 
 ---
 
-## Part II: Applications & Protocols
+## Part II: Applications, Infrastructure & Cross-Cutting Research
 
 ### Retail Shopping & Personal Assistants
 
@@ -209,14 +215,12 @@ This repository complements the survey:
 * [KDD 2026] DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents. [link](https://arxiv.org/pdf/2509.21842)
 * [arXiv 2025] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization. [link](https://arxiv.org/pdf/2507.13311)
 * [arXiv 2025] Flippi: End To End GenAI Assistant for E-Commerce. [link](https://arxiv.org/pdf/2507.05788)
-* [ACL Findings 2025] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://aclanthology.org/2025.findings-acl.928/)
 * [REALM 2025] PAARS: Persona Aligned Agentic Retail Shoppers. [link](https://aclanthology.org/2025.realm-1.11.pdf)
 * [ACL 2025] Personal Travel Solver: A Preference-Driven LLM-Solver System for Travel Planning. [link](https://aclanthology.org/2025.acl-long.1339.pdf)
 * [EMNLP 2025] RETAIL: Towards Real-world Travel Planning for Large Language Models. [link](https://aclanthology.org/2025.emnlp-main.752.pdf)
 * [arXiv 2025] What Is Your AI Agent Buying? Evaluation, Implications, and Emerging Questions for Agentic E-Commerce. [link](https://arxiv.org/pdf/2508.02630)
 * [ACL Industry 2026] ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation. [link](https://aclanthology.org/2026.acl-industry.96/)
 * [arXiv 2026] Shopping Companion: A Memory-Augmented LLM Agent for Real-World E-Commerce Tasks. [link](https://arxiv.org/pdf/2603.14864)
-* [arXiv 2026] SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents. [link](https://arxiv.org/abs/2605.14205)
 * [arXiv 2026] EComAgentBench: Benchmarking Shopping Agents on Long-Horizon Tasks with Distributed Hidden Intent. [link](https://arxiv.org/abs/2606.17698)
 * [arXiv 2026] ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping. [link](https://arxiv.org/abs/2606.31693)
 
@@ -246,7 +250,6 @@ This repository complements the survey:
 * [arXiv 2025] SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization. [link](https://arxiv.org/pdf/2503.23303)
 * [EMNLP Findings 2025] Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action. [link](https://aclanthology.org/2025.findings-emnlp.275.pdf)
 * [arXiv 2025] Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents. [link](https://arxiv.org/abs/2503.04830)
-* [arXiv 2026] SalesSim: Benchmarking and Aligning Multimodal Language Models as Retail User Simulators. [link](https://arxiv.org/abs/2605.08334)
 * [CVPR 2026 HiGen Workshop] VerbalValue: A Socially Intelligent Virtual Host for Sales-Driven Live Commerce. [link](https://higen-2025.github.io/index.html)
 
 ### Recommendation & Search Systems
@@ -257,7 +260,6 @@ This repository complements the survey:
 * [SIGIR 2024] MACRec: A Multi-Agent Collaboration Framework for Recommendation. [link](https://dl.acm.org/doi/abs/10.1145/3626772.3657669)
 * [SIGIR 2024] On Generative Agents in Recommendation. [link](https://dl.acm.org/doi/pdf/10.1145/3626772.3657844)
 * [NAACL Findings 2024] RecMind: Large Language Model Powered Agent For Recommendation. [link](https://aclanthology.org/2024.findings-naacl.271/)
-* [SIGIR 2025] Agentic Feedback Loop Modeling Improves Recommendation and User Simulation. [link](https://doi.org/10.1145/3726302.3729893)
 * [NeurIPS 2025 Datasets & Benchmarks] AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems. [link](https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d6f7249add096e26679eade1b4cc6f-Paper-Datasets_and_Benchmarks_Track.pdf)
 * [arXiv 2025] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation. [link](https://arxiv.org/pdf/2506.21931)
 * [arXiv 2025] Beyond Retrieval-Ranking: A Multi-Agent Cognitive Decision Framework for E-Commerce Search. [link](https://arxiv.org/pdf/2510.20567)
@@ -278,7 +280,6 @@ This repository complements the survey:
 * [arXiv 2026] Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model. [link](https://arxiv.org/pdf/2604.14051)
 * [arXiv 2026] RecoAtlas: From Semantic Plausibility to Set-Level Utility in LLM Recommendation Agents. [link](https://arxiv.org/abs/2605.18805)
 * [arXiv 2026] QueryAgent-R1: Bridging Query Generation and Product Retrieval for E-Commerce Query Recommendation. [link](https://arxiv.org/abs/2606.05671)
-* [arXiv 2026] SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents. [link](https://arxiv.org/abs/2606.28356)
 * [arXiv 2026] $\tau$-Rec: A Verifiable Benchmark for Agentic Recommender Systems. [link](https://arxiv.org/abs/2606.10156)
 * [arXiv 2026] Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce. [link](https://arxiv.org/abs/2606.12924)
 * [arXiv 2026] ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping. [link](https://arxiv.org/abs/2606.31693)
@@ -344,19 +345,34 @@ This repository complements the survey:
 
 ### Payment & Transaction Protocols
 
-* [IEEE BigData 2025] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://doi.org/10.1109/BigData66926.2025.11402424)
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 * [GitHub] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
 * [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
-* [arXiv 2026] Five Attacks on x402 Agentic Payment Protocol. [link](https://arxiv.org/abs/2605.11781)
 * [arXiv 2026] RAILS: Verification-Native Clearing For Agentic Commerce. [link](https://arxiv.org/abs/2606.08790)
+
+### User Simulation & Behavioral Modeling
+
+* [SIGIR 2025] Agentic Feedback Loop Modeling Improves Recommendation and User Simulation. [link](https://doi.org/10.1145/3726302.3729893)
+* [ACL Industry 2025] SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation. [link](https://aclanthology.org/2025.acl-industry.5.pdf)
+* [arXiv 2025] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants? [link](https://arxiv.org/pdf/2509.21501)
+* [arXiv 2026] SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents. [link](https://arxiv.org/abs/2605.14205)
+* [arXiv 2026] SalesSim: Benchmarking and Aligning Multimodal Language Models as Retail User Simulators. [link](https://arxiv.org/abs/2605.08334)
+
+### Trust, Safety & Ecosystem Measurement
+
+* [ACL Findings 2025] iAgent: LLM Agent as a Shield between User and Recommender Systems. [link](https://aclanthology.org/2025.findings-acl.928/)
+* [IEEE BigData 2025] CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments. [link](https://doi.org/10.1109/BigData66926.2025.11402424)
+* [arXiv 2026] Five Attacks on x402 Agentic Payment Protocol. [link](https://arxiv.org/abs/2605.11781)
+* [arXiv 2026] SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents. [link](https://arxiv.org/abs/2606.28356)
 * [arXiv 2026] How Agentic Is Agentic Commerce? A Population-Scale Measurement of x402 Adoption and Authenticity. [link](https://arxiv.org/abs/2607.12575)
 
 ---
 
-## Part III: Benchmarks
+## Part III: Benchmarks, Environments & Evaluation
+
+This section covers benchmarks, datasets, simulation environments, and evaluation frameworks that cut across commerce stages and agent roles.
 
 * [NeurIPS 2022] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [link](https://arxiv.org/pdf/2207.01206)
 * [ICML 2024] How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis. [link](https://proceedings.mlr.press/v235/bianchi24a.html)
