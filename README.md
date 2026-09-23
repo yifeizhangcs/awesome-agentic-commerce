@@ -415,6 +415,7 @@ This repository complements the survey:
 * [Google Cloud] Powering AI commerce with the new Agent Payments Protocol (AP2). [link](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 * [Skyfire] KYA & Payments for Agents. [link](https://skyfire.xyz/product/)
 * [GitHub] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
+* [Nano (XNO)] Feeless, instant, self-custodied settlement rail for agent payments — the x402 exact scheme for Nano is implemented in TypeScript at [x402nano/exact](https://github.com/x402nano/exact) with a facilitator at [x402nano/facilitator](https://github.com/x402nano/facilitator); zero-fee and near-instant settlement with no issuer that can freeze funds. [link](https://nano.org)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
 * [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [arXiv 2026] RAILS: Verification-Native Clearing For Agentic Commerce. [link](https://arxiv.org/abs/2606.08790)
