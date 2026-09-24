@@ -418,6 +418,7 @@ This repository complements the survey:
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
 * [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [arXiv 2026] RAILS: Verification-Native Clearing For Agentic Commerce. [link](https://arxiv.org/abs/2606.08790)
+* [GitHub] x402nano/exact – exact-scheme x402 settlement on nano:mainnet: feeless (0 fee per transaction), ~sub-second finality, self-custodied peer-to-peer with no issuer that can freeze funds. [link](https://github.com/x402nano/exact)
 
 ### User Simulation & Behavioral Modeling
 
