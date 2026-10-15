@@ -423,6 +423,7 @@ This repository complements the survey:
 * [GitHub] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
 * [GitHub / AgentServices] AgentServices: Paid APIs for AI Agents via x402 USDC Micropayments on Base, with MCP Discovery. [link](https://github.com/vbkotecha/agentservices-api)
+* [GitHub / bilbop] bilbop x402: Solana USDC Pay-per-call APIs with MCP Access. [link](https://github.com/bilbop1/bilbop-x402-mcp)
 * [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [arXiv 2026] RAILS: Verification-Native Clearing For Agentic Commerce. [link](https://arxiv.org/abs/2606.08790)
 
