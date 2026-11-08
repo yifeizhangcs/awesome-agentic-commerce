@@ -2,6 +2,35 @@
 
 This log records reviewed community suggestions, their final placement, and the public maintainer response. Project capabilities are based on the linked primary documentation; inclusion does not certify deployment, payment execution, security, or research quality.
 
+## 2026-11-08 — Publication metadata and resource PRs
+
+### Resource decisions
+
+| Contribution | Contributor | Placement | Decision |
+|---|---|---|---|
+| [PR #14: BestPrice MCP](https://github.com/yifeizhangcs/awesome-agentic-commerce/pull/14) | [phaistonian](https://github.com/phaistonian) | Part II: Retail Shopping & Personal Assistants | Merged with contributor history preserved in d735c8c. |
+| [PR #13: Tanod](https://github.com/yifeizhangcs/awesome-agentic-commerce/pull/13) | [tanod-labs](https://github.com/tanod-labs) | Part II: Payment & Transaction Protocols | Merged with contributor history preserved in 69d58e5; description normalized before pushing to omit the volatile free-allowance claim and network enumeration. |
+| [PR #12: bilbop](https://github.com/yifeizhangcs/awesome-agentic-commerce/pull/12) | [bilbop1](https://github.com/bilbop1) | Proposed payment infrastructure | Remains open and deferred. The API hostname still could not be resolved; no new contributor reachability evidence was present. |
+
+- **BestPrice evidence:** [Official repository](https://github.com/TheBestCo/bestprice-mcp) and [provider guide](https://www.bestprice.gr/mcp) describe read-only shopping decisions, product search, offer comparison, and price history. The repository is integration documentation/client tooling, not the hosted server implementation. The current documentation describes additional tools beyond the four in the PR description; the README entry deliberately avoids a tool count. Direct endpoint GET and initialization checks timed out in this environment, so live MCP functionality is not claimed as verified. Inclusion as an industry integration was explicitly approved after this limitation was reported. No checkout or payment was attempted.
+- **Tanod evidence:** [Official integration documentation](https://tanod.dev/connect/) describes remote MCP and x402 paid tools. Its [health endpoint](https://tanod.dev/healthz) returned HTTP 200 with `status: ok` during this review. This establishes reachability, not successful tool execution or payment settlement. No payment, wallet setup, software installation, or credential sharing was performed. The autonomous-operator claim was not adopted in the entry.
+
+### Literature changes
+
+The audit covered 52 distinct arXiv-labeled papers. Twenty papers received metadata updates across 41 existing README occurrences; no paper was added or removed, and taxonomy headings and deliberate cross-listing were preserved.
+
+- **Eleven venue updates:** SkillChain and EComAgentBench to EMNLP Industry 2026; Shopping Companion to EMNLP Findings 2026; SafeGEO to EMNLP 2026; Market-Bench to ACL 2026; AI-Salesman to AAAI 2026; tau-squared-Bench to ICML 2026; tau-Rec to RecSys 2026 Reproducibility & Resource Track; What Is Your AI Agent Buying to WWW 2026 Short Paper; Agentic LLMs in the Supply Chain to International Journal of Production Research (online publication in 2025); AgenticPay to NeurIPS 2026. AgenticPay uses the confirmed conference title and the maintainer-approved plain venue label; no additional proceedings-publication claim is made here.
+- **Four workshop updates:** ARAG and CAL-RAG to GENNEXT @ SIGIR 2025 ([official program](https://sigirgennext.github.io/GENNEXT-SIGIR-25/)); CARTS to the ICML 2025 MAS workshop, *Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures*, explicitly non-archival ([workshop policy](https://mas-2025.github.io/MAS-2025/), [author publication page](https://sites.google.com/site/zhaokaics/home)); Enterprise Deep Research to the AAAI 2026 Agentic AI Applications for Enterprise Tasks Workshop ([author record](https://aksh555.github.io/), [Salesforce project](https://github.com/SalesforceAIResearch/enterprise-deep-research)). Workshop affiliation is not represented as main-conference publication.
+- **Five title-only corrections, retaining arXiv labels:** RecoAtlas, SalesSim (now CustomerSim), Leveraging LLM-Based Agents for Intelligent Supply Chain Planning (now Rethinking Supply Chain Planning: A Generative Paradigm), FashionPose, and Building A Secure Agentic AI Application Leveraging A2A Protocol. Shopping Companion, What Is Your AI Agent Buying, and AgenticPay also use their conference titles as part of the venue updates.
+- Formal venue/DOI links are recorded in the updated README. Papers without sufficient primary-source evidence, including DeepShop and Magentic Marketplace, retain their existing labels; submission records and third-party venue guesses were not treated as acceptance evidence.
+
+## 2026-11-08 — External listing invitation (deferred)
+
+- **Source:** [MentionNetwork/awesome-agentic-commerce issue #179](https://github.com/MentionNetwork/awesome-agentic-commerce/issues/179), opened by `github-actions[bot]` on 2026-11-08 and mentioning `@yifeizhangcs`.
+- **Meaning:** The external project's automated scan found our repository and invited us to submit a PR for inclusion in its list. This is a repository-operated GitHub Actions invitation, not a GitHub official recommendation, research citation, or confirmation that we are already listed.
+- **Relevance:** Their list focuses on industry tools, commerce protocols, platform integrations, and marketing; ours emphasizes research literature and the survey taxonomy. Potentially complementary, with a future listing under their Related Awesome Lists section if desired.
+- **Maintainer decision:** Record only and defer. No reply, listing PR, badge, README change, or issue closure; no follow-up scheduled.
+
 ## 2026-10-01
 
 All five suggestions below were incorporated. PR #7 was merged; PRs #2, #3, and #5 were closed after their resources were incorporated manually. Issue #6 was closed as completed. Each received a public thank-you and an explanation of the final placement.
