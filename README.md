@@ -258,6 +258,7 @@ This repository complements the survey:
 ### Retail Shopping & Personal Assistants
 
 * [GitHub / Packrift] Packrift MCP: Live Packaging Catalog, Pricing, Shipping Estimates, and Human-Reviewed Checkout Handoff. [link](https://github.com/Packrift/packrift-mcp)
+* [GitHub / BestPrice] BestPrice MCP: Read-Only Shopping Decisions, Product Search, Live Greek Merchant Offers with Delivered Totals, and Price History. [link](https://github.com/TheBestCo/bestprice-mcp)
 * [OpenAI] Shopping Research in ChatGPT. [link](https://openai.com)
 * [OpenAI] Buy it in ChatGPT. [link](https://developers.openai.com)
 * [Perplexity] Shop like a Pro. [link](https://perplexity.ai)
