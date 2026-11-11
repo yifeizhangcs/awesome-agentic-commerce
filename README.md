@@ -259,6 +259,7 @@ This repository complements the survey:
 
 * [GitHub / Packrift] Packrift MCP: Live Packaging Catalog, Pricing, Shipping Estimates, and Human-Reviewed Checkout Handoff. [link](https://github.com/Packrift/packrift-mcp)
 * [GitHub / BestPrice] BestPrice MCP: Read-Only Shopping Decisions, Product Search, Live Greek Merchant Offers with Delivered Totals, and Price History. [link](https://github.com/TheBestCo/bestprice-mcp)
+* [GitHub / Toolbox POD] Toolbox POD MCP: Custom Tee and Hoodie Design, Mockups, Order Pricing, and Checkout-Link Handoff for Prints Made and Shipped from Utah. [link](https://github.com/Toolbox-POD/toolbox-pod-mcp)
 * [OpenAI] Shopping Research in ChatGPT. [link](https://openai.com)
 * [OpenAI] Buy it in ChatGPT. [link](https://developers.openai.com)
 * [Perplexity] Shop like a Pro. [link](https://perplexity.ai)
