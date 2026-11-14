@@ -2,6 +2,14 @@
 
 This log records reviewed community suggestions, their final placement, and the public maintainer response. Project capabilities are based on the linked primary documentation; inclusion does not certify deployment, payment execution, security, or research quality.
 
+## 2026-11-13 — Toolbox POD MCP
+
+[PR #15](https://github.com/yifeizhangcs/awesome-agentic-commerce/pull/15) by [coltonfitzgerald](https://github.com/coltonfitzgerald) was merged with a shorter entry in Part II: Retail Shopping & Personal Assistants. It is a hosted print-on-demand integration, not a payment protocol, research paper, or open-source server implementation.
+
+- **Order vs. payment:** The [provider tool reference](https://toolboxpod.com/docs/mcp) and live tool definitions distinguish nonbinding estimates, unpaid draft creation (`create_order`), checkout-link handoff (`get_checkout_link`), and real card charges (`purchase_order`, `retry_order`). Draft creation is a write but does not charge. Checkout-link retrieval does not charge either.
+- **Documented permissions:** Managers can prepare orders but cannot pay; Viewers have read access. Agent payment requires an Owner connection, a saved card, and an Owner-configured spending limit. Per-order and monthly limits are supported. The default when payment is enabled still sends the Owner to the website for each order unless that setting is changed. ChatGPT and Claude web/desktop are documented as checkout-link-only for payment. The [vendor plugin guidance](https://github.com/Toolbox-POD/toolbox-pod-mcp/blob/main/skills/toolbox-pod/SKILL.md) asks for explicit confirmation before order writes and payment; tool hints and plugin instructions are not a universal enforcement guarantee.
+- **Verified boundary:** Public MCP initialization and tool listing responded successfully. OAuth discovery advertises separate `orders:prepare` and `orders:purchase` scopes. An anonymous `whoami` call returned HTTP 401 `missing_token`. The hosted backend is not public, so role checks, spending-limit enforcement, and client-specific behavior were not independently exercised. No account was connected and no order, checkout link, or payment was created.
+
 ## 2026-11-08 — Publication metadata and resource PRs
 
 ### Resource decisions
