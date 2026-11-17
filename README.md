@@ -397,6 +397,7 @@ This repository complements the survey:
 * [IEEE CASE 2025] Safe Human Robot Navigation in Warehouse Scenario. [link](https://doi.org/10.1109/CASE58245.2025.11164151)
 * [ICRA Workshop 2025] Task Planning for Mobile Manipulation in Retail Stores using Foundation Models with Iterative Re-planning. [link](https://dyalab.mines.edu/2025/icra-workshop/18.pdf)
 * [Amazon] Amazon has more than 1 million robots that sort, lift, and carry packages—see them in action. [link](https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center)
+* [GitHub / PlushSource] PlushSource MCP: Read-Only Supplier Discovery over 55 Custom Plush Manufacturers (MOQ, Lead Time, OEM/ODM, Claimed Certifications), with an RFQ Draft Prompt. [link](https://github.com/quickman924/plushsource-mcp)
 
 ### Negotiation & Pricing
 
