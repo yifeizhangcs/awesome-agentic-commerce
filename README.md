@@ -425,6 +425,7 @@ This repository complements the survey:
 * [GitHub] MachinePal – x402 AI Payment Agent for Any Website or API. [link](https://github.com/skalenetwork/machinepal)
 * [GitHub] Zen7 Payment Agent: A Dedicated Payment Network. [link](https://github.com/Zen7-Labs/Zen7-Payment-Agent)
 * [GitHub / AgentServices] AgentServices: Paid APIs for AI Agents via x402 USDC Micropayments on Base, with MCP Discovery. [link](https://github.com/vbkotecha/agentservices-api)
+* [AutoTasker Hub] AutoTasker Hub: Pay-per-call China social trending data (Weibo, Douban, Zhihu, Bilibili), search and 24h digest for AI agents via x402 USDC micropayments on Base, with MCP discovery (84 tools). [link](https://autotasker.highkingflower.com)
 * [Tanod] Tanod: Pay-per-call Tools for AI Agents via MCP and x402 USDC Payments. [link](https://tanod.dev/connect/)
 * [arXiv 2025] Secure Autonomous Agent Payments: Verifying Authenticity and Intent in a Trustless Environment. [link](https://arxiv.org/pdf/2511.15712)
 * [arXiv 2026] RAILS: Verification-Native Clearing For Agentic Commerce. [link](https://arxiv.org/abs/2606.08790)
