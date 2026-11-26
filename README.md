@@ -298,6 +298,7 @@ This repository complements the survey:
 
 * [NotFair] Google Ads MCP: Campaign Analysis and Human-Approved Advertising Changes. [link](https://github.com/nowork-studio/google-ads-mcp)
 * [Transformer.gg] Transformer.gg MCP: Creator Discovery, Sponsored-Post Offers, and Campaign Tracking (Creator Acceptance Can Trigger Card Charges). [link](https://transformer.gg/docs)
+* [GitHub / aicarvideo] Car Listing Check MCP: Read-Only Completeness and Presentation Check of a Dealer's Vehicle Listing, with Score, Missing Data, and Prioritised Fixes; No Scraping, No Listing Changes. [link](https://github.com/TRW123123/car-listing-check-mcp)
 * [TKDE 2024] Hierarchical Multi-Agent Meta-Reinforcement Learning for Cross-Channel Bidding. [link](https://ieeexplore.ieee.org/document/10817487/)
 * [EMNLP Industry 2024] IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing. [link](https://aclanthology.org/2024.emnlp-industry.52.pdf)
 * [ICLR 2025 FM-Wild Workshop] Agentic Multimodal AI for Hyper-Personalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework. [link](https://openreview.net/forum?id=4qzqY0PFRK)
