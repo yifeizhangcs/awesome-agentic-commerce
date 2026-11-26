@@ -441,6 +441,7 @@ This repository complements the survey:
 
 ### Trust, Safety & Ecosystem Measurement
 
+* [Screwtape.ai] Screwtape.ai: Pre-payment Seller Checks and Signed Decision Receipts for AI Agents (Advisory, Non-Custodial). [link](https://screwtape.ai/docs/)
 * [ICLR 2025] Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents. [link](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5750f91d8fb9d5c02bd8ad2c3b44456b-Abstract-Conference.html)
 * [ICML 2025] Position: AI Agents Need Authenticated Delegation. [link](https://proceedings.mlr.press/v267/south25a.html)
 * [ACL 2025] The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents. [link](https://aclanthology.org/2025.acl-long.1435/)
