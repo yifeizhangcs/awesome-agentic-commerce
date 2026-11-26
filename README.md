@@ -457,6 +457,7 @@ This repository complements the survey:
 * [arXiv 2026] Five Attacks on x402 Agentic Payment Protocol. [link](https://arxiv.org/abs/2605.11781)
 * [EMNLP 2026] SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents. [link](https://aclanthology.org/2026.emnlp-main.603/)
 * [arXiv 2026] How Agentic Is Agentic Commerce? A Population-Scale Measurement of x402 Adoption and Authenticity. [link](https://arxiv.org/abs/2607.12575)
+* [Preprints.org 2026] From Super-Apps to Agent Economies: Delegated AI Requires Transaction Closure. [link](https://doi.org/10.20944/preprints202604.1860.v1)
 
 ---
 
