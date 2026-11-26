@@ -31,6 +31,8 @@ This repository complements the survey:
 * [Visa 2025] What Is Agentic Commerce? [link](https://corporate.visa.com/en/sites/visa-perspectives/innovation/what-is-agentic-commerce.html)
 * [Google Cloud 2025] Agentic commerce is here: How retailers can prepare for the new shopping era [link](https://cloud.google.com/transform/agentic-commerce-retailers-can-prepare-for-the-new-shopping-era-ai)
 * [Shopify 2025] AI Agents: Harnessing Agentic AI for Ecommerce Businesses [link](https://www.shopify.com/blog/ai-agents)
+* [Industry Book 2026 / Stefan Hamann] Agentic Commerce: The Handbook for Commerce Strategy, Technology and Leadership. [link](https://www.agentic-commerce.sh/book/en/)
+* [Industry Whitepaper 2026 / Stefan Hamann] Agentic Commerce: Protocols, Standards, and Reference Architectures. [link](https://www.agentic-commerce.sh/library/developers-2026/)
 ---
 
 ## Part I: Commerce Pipeline (Survey Taxonomy)
