@@ -457,6 +457,7 @@ This repository complements the survey:
 * [arXiv 2026] Five Attacks on x402 Agentic Payment Protocol. [link](https://arxiv.org/abs/2605.11781)
 * [EMNLP 2026] SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents. [link](https://aclanthology.org/2026.emnlp-main.603/)
 * [arXiv 2026] How Agentic Is Agentic Commerce? A Population-Scale Measurement of x402 Adoption and Authenticity. [link](https://arxiv.org/abs/2607.12575)
+* [Zenodo 2026] What AI Agents Buy Online: Evidence from Retail Orders and Crypto Payments. [link](https://doi.org/10.5281/zenodo.24624920)
 
 ---
 
